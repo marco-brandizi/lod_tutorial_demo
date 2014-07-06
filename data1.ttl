@@ -1,0 +1,4405 @@
+@prefix obo:     <http://purl.obolibrary.org/obo/> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix atlasterms:  <http://rdf.ebi.ac.uk/resource/atlas/> .
+
+<http://rdf.ebi.ac.uk/demo/sample/B334ACFD034CEBDC73BBDA748C97C65B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #B334ACFD034CEBDC73BBDA748C97C65B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P35249> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YMG0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YFD1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5T9Q8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/F8W0L1>
+      rdfs:label    "F8W0L1" .
+
+<http://purl.uniprot.org/uniprot/H3BSH7>
+      rdfs:label    "H3BSH7" .
+
+<http://purl.uniprot.org/uniprot/Q99JA5>
+      rdfs:label    "Q99JA5" .
+
+<http://purl.uniprot.org/uniprot/Q9H6D6>
+      rdfs:label    "Q9H6D6" .
+
+<http://purl.uniprot.org/uniprot/P50213>
+      rdfs:label    "P50213" .
+
+<http://purl.uniprot.org/uniprot/M0QXK2>
+      rdfs:label    "M0QXK2" .
+
+<http://purl.uniprot.org/uniprot/O08992>
+      rdfs:label    "O08992" .
+
+<http://purl.uniprot.org/uniprot/E9PWW2>
+      rdfs:label    "E9PWW2" .
+
+<http://purl.uniprot.org/uniprot/M0QX14>
+      rdfs:label    "M0QX14" .
+
+<http://purl.uniprot.org/uniprot/Q15437>
+      rdfs:label    "Q15437" .
+
+<http://purl.uniprot.org/uniprot/O00534>
+      rdfs:label    "O00534" .
+
+<http://purl.uniprot.org/uniprot/Q53S54>
+      rdfs:label    "Q53S54" .
+
+<http://purl.uniprot.org/uniprot/Q921I3>
+      rdfs:label    "Q921I3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2B36C5C061F7F1F88783781FFE8E767C>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2B36C5C061F7F1F88783781FFE8E767C" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q14BA6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q544F6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O35904> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P10810> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q4I1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2ALN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99P86> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CYN3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6P8N5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P81117> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z2K9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q31205> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z730> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A3KGH7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q924S2> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/B2R5P6>
+      rdfs:label    "B2R5P6" .
+
+<http://purl.uniprot.org/uniprot/P42227>
+      rdfs:label    "P42227" .
+
+<http://purl.uniprot.org/uniprot/Q9UMW8>
+      rdfs:label    "Q9UMW8" .
+
+<http://purl.uniprot.org/uniprot/M0R0Y6>
+      rdfs:label    "M0R0Y6" .
+
+<http://purl.uniprot.org/uniprot/C9JDI8>
+      rdfs:label    "C9JDI8" .
+
+<http://purl.uniprot.org/uniprot/E0CYI0>
+      rdfs:label    "E0CYI0" .
+
+<http://purl.uniprot.org/uniprot/P13473>
+      rdfs:label    "P13473" .
+
+<http://purl.uniprot.org/uniprot/M0QZL5>
+      rdfs:label    "M0QZL5" .
+
+<http://rdf.ebi.ac.uk/demo/sample/3FF4B3824383FDBED32E77F48934CE48>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #3FF4B3824383FDBED32E77F48934CE48" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JDI8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9IYA5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q75MY8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JVD8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BTE1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YM70> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8N6S3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UMW8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8ZZR8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/J3KSM3>
+      rdfs:label    "J3KSM3" .
+
+<http://purl.uniprot.org/uniprot/Q9DAV9>
+      rdfs:label    "Q9DAV9" .
+
+<http://purl.uniprot.org/uniprot/O96017>
+      rdfs:label    "O96017" .
+
+<http://purl.uniprot.org/uniprot/Q75MQ0>
+      rdfs:label    "Q75MQ0" .
+
+<http://purl.uniprot.org/uniprot/Q6IRU5>
+      rdfs:label    "Q6IRU5" .
+
+<http://purl.uniprot.org/uniprot/Q9D168>
+      rdfs:label    "Q9D168" .
+
+<http://purl.uniprot.org/uniprot/Q3TLX9>
+      rdfs:label    "Q3TLX9" .
+
+<http://purl.uniprot.org/uniprot/H7BWZ1>
+      rdfs:label    "H7BWZ1" .
+
+<http://purl.uniprot.org/uniprot/Q8SP64>
+      rdfs:label    "Q8SP64" .
+
+<http://purl.uniprot.org/uniprot/F5H7K7>
+      rdfs:label    "F5H7K7" .
+
+<http://purl.uniprot.org/uniprot/Q8C3V4>
+      rdfs:label    "Q8C3V4" .
+
+<http://purl.uniprot.org/uniprot/Q3TR28>
+      rdfs:label    "Q3TR28" .
+
+<http://purl.uniprot.org/uniprot/D6RHG5>
+      rdfs:label    "D6RHG5" .
+
+<http://purl.uniprot.org/uniprot/E0CYN3>
+      rdfs:label    "E0CYN3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/DFD0A84870D7BE1D501131DAF92DB093>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #DFD0A84870D7BE1D501131DAF92DB093" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NY41> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A3E0Z7> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/Q9Y375>
+      rdfs:label    "Q9Y375" .
+
+<http://purl.uniprot.org/uniprot/F5H1V0>
+      rdfs:label    "F5H1V0" .
+
+<http://purl.uniprot.org/uniprot/C9JB40>
+      rdfs:label    "C9JB40" .
+
+<http://purl.uniprot.org/uniprot/Q31205>
+      rdfs:label    "Q31205" .
+
+<http://rdf.ebi.ac.uk/demo/sample/57B38B3342FFADC0497AEF387D0020DB>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #57B38B3342FFADC0497AEF387D0020DB" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A7UKX7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PDF6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O19807> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JYV5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JG30> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H1U6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y2R5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V0E5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6ZU41> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WE30> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EQ13> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3TTZ0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7Z7K0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P34995> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DU54> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0R0Y6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WCJ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q16585> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ESS4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PBX6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JWR3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8WMA1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99547> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SWX3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P08195> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UBC3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96DB6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L1Y4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JXY8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6R9S9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DSC0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O60547> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P06396> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RD83> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PQA3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QLC8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EN92> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P62826> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3DPQ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q13200> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5VZK9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2VNV6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L509> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G9HWA9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V5P8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A8MXH5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I7A4E3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RB30> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ERI8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DJE1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RCC4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5GWN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EUJ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P35232> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QSE8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H9CWI2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DDT6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B3KWG6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DP90> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H490> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PC84> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/H3BKM5>
+      rdfs:label    "H3BKM5" .
+
+<http://purl.uniprot.org/uniprot/J3KRG8>
+      rdfs:label    "J3KRG8" .
+
+<http://purl.uniprot.org/uniprot/H0YF42>
+      rdfs:label    "H0YF42" .
+
+<http://purl.uniprot.org/uniprot/A8MXH5>
+      rdfs:label    "A8MXH5" .
+
+<http://purl.uniprot.org/uniprot/Q8R1Z9>
+      rdfs:label    "Q8R1Z9" .
+
+<http://purl.uniprot.org/uniprot/Q3UAZ3>
+      rdfs:label    "Q3UAZ3" .
+
+<http://purl.uniprot.org/uniprot/H7BXP4>
+      rdfs:label    "H7BXP4" .
+
+<http://purl.uniprot.org/uniprot/E7EW52>
+      rdfs:label    "E7EW52" .
+
+<http://purl.uniprot.org/uniprot/E0CY08>
+      rdfs:label    "E0CY08" .
+
+<http://purl.uniprot.org/uniprot/D3YVL0>
+      rdfs:label    "D3YVL0" .
+
+<http://purl.uniprot.org/uniprot/E7EMT6>
+      rdfs:label    "E7EMT6" .
+
+<http://purl.uniprot.org/uniprot/A2ABP5>
+      rdfs:label    "A2ABP5" .
+
+<http://purl.uniprot.org/uniprot/Q5U026>
+      rdfs:label    "Q5U026" .
+
+<http://purl.uniprot.org/uniprot/G1UD80>
+      rdfs:label    "G1UD80" .
+
+<http://purl.uniprot.org/uniprot/D6RDU0>
+      rdfs:label    "D6RDU0" .
+
+<http://purl.uniprot.org/uniprot/C9JW37>
+      rdfs:label    "C9JW37" .
+
+<http://purl.uniprot.org/uniprot/G3V1X9>
+      rdfs:label    "G3V1X9" .
+
+<http://purl.uniprot.org/uniprot/Q8WUR0>
+      rdfs:label    "Q8WUR0" .
+
+<http://purl.uniprot.org/uniprot/Q8R239>
+      rdfs:label    "Q8R239" .
+
+<http://purl.uniprot.org/uniprot/D1LZJ7>
+      rdfs:label    "D1LZJ7" .
+
+<http://purl.uniprot.org/uniprot/P42224>
+      rdfs:label    "P42224" .
+
+<http://rdf.ebi.ac.uk/demo/sample/9EAD85453D04C65DA4C7FE9D4AFB1D78>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #9EAD85453D04C65DA4C7FE9D4AFB1D78" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P21981> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q8IZH9>
+      rdfs:label    "Q8IZH9" .
+
+<http://purl.uniprot.org/uniprot/Q3UPW2>
+      rdfs:label    "Q3UPW2" .
+
+<http://purl.uniprot.org/uniprot/C9J2I1>
+      rdfs:label    "C9J2I1" .
+
+<http://purl.uniprot.org/uniprot/Q925P3>
+      rdfs:label    "Q925P3" .
+
+<http://purl.uniprot.org/uniprot/Q9R0Q8>
+      rdfs:label    "Q9R0Q8" .
+
+<http://purl.uniprot.org/uniprot/O89113>
+      rdfs:label    "O89113" .
+
+<http://purl.uniprot.org/uniprot/C9J013>
+      rdfs:label    "C9J013" .
+
+<http://purl.uniprot.org/uniprot/H0YAL6>
+      rdfs:label    "H0YAL6" .
+
+<http://purl.uniprot.org/uniprot/Q9UBV8>
+      rdfs:label    "Q9UBV8" .
+
+<http://purl.uniprot.org/uniprot/C9JPM4>
+      rdfs:label    "C9JPM4" .
+
+<http://purl.uniprot.org/uniprot/Q9NR34>
+      rdfs:label    "Q9NR34" .
+
+<http://purl.uniprot.org/uniprot/B7Z1C6>
+      rdfs:label    "B7Z1C6" .
+
+<http://purl.uniprot.org/uniprot/B2RRH9>
+      rdfs:label    "B2RRH9" .
+
+<http://purl.uniprot.org/uniprot/E9Q6P1>
+      rdfs:label    "E9Q6P1" .
+
+<http://purl.uniprot.org/uniprot/F5H488>
+      rdfs:label    "F5H488" .
+
+<http://purl.uniprot.org/uniprot/Q5SS03>
+      rdfs:label    "Q5SS03" .
+
+<http://purl.uniprot.org/uniprot/Q6ZU41>
+      rdfs:label    "Q6ZU41" .
+
+<http://purl.uniprot.org/uniprot/E9PMU3>
+      rdfs:label    "E9PMU3" .
+
+<http://purl.uniprot.org/uniprot/Q12769>
+      rdfs:label    "Q12769" .
+
+<http://purl.uniprot.org/uniprot/H0YGJ3>
+      rdfs:label    "H0YGJ3" .
+
+<http://purl.uniprot.org/uniprot/Q9CPY9>
+      rdfs:label    "Q9CPY9" .
+
+<http://purl.uniprot.org/uniprot/H0YLG1>
+      rdfs:label    "H0YLG1" .
+
+<http://purl.uniprot.org/uniprot/Q07174>
+      rdfs:label    "Q07174" .
+
+<http://purl.uniprot.org/uniprot/F8WCJ1>
+      rdfs:label    "F8WCJ1" .
+
+<http://purl.uniprot.org/uniprot/Q3U184>
+      rdfs:label    "Q3U184" .
+
+<http://purl.uniprot.org/uniprot/B5MDP1>
+      rdfs:label    "B5MDP1" .
+
+<http://purl.uniprot.org/uniprot/P26955>
+      rdfs:label    "P26955" .
+
+<http://purl.uniprot.org/uniprot/H3BLT4>
+      rdfs:label    "H3BLT4" .
+
+<http://purl.uniprot.org/uniprot/J3QK51>
+      rdfs:label    "J3QK51" .
+
+<http://purl.uniprot.org/uniprot/A6ND99>
+      rdfs:label    "A6ND99" .
+
+<http://purl.uniprot.org/uniprot/E0CXX4>
+      rdfs:label    "E0CXX4" .
+
+<http://purl.uniprot.org/uniprot/F8W0F6>
+      rdfs:label    "F8W0F6" .
+
+<http://purl.uniprot.org/uniprot/B8YCP3>
+      rdfs:label    "B8YCP3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/066957AEB2E8F8BF45AE24D6D42A7AA8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #066957AEB2E8F8BF45AE24D6D42A7AA8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9R0S0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P28063> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P30204> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G5E8X4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6A053> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8JZX6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BJH4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UG45> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6ZQI3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O70145> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J7NNX8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/D6RC07>
+      rdfs:label    "D6RC07" .
+
+<http://purl.uniprot.org/uniprot/J3QLC8>
+      rdfs:label    "J3QLC8" .
+
+<http://purl.uniprot.org/uniprot/E7EN92>
+      rdfs:label    "E7EN92" .
+
+<http://purl.uniprot.org/uniprot/O08691>
+      rdfs:label    "O08691" .
+
+<http://purl.uniprot.org/uniprot/J7NNX8>
+      rdfs:label    "J7NNX8" .
+
+<http://purl.uniprot.org/uniprot/D6RCT8>
+      rdfs:label    "D6RCT8" .
+
+<http://purl.uniprot.org/uniprot/A2VDH5>
+      rdfs:label    "A2VDH5" .
+
+<http://purl.uniprot.org/uniprot/E9PXZ8>
+      rdfs:label    "E9PXZ8" .
+
+<http://purl.uniprot.org/uniprot/P35249>
+      rdfs:label    "P35249" .
+
+<http://purl.uniprot.org/uniprot/Q8CB10>
+      rdfs:label    "Q8CB10" .
+
+<http://purl.uniprot.org/uniprot/Q5F271>
+      rdfs:label    "Q5F271" .
+
+<http://purl.uniprot.org/uniprot/Q9HBM1>
+      rdfs:label    "Q9HBM1" .
+
+<http://purl.uniprot.org/uniprot/H3BLG5>
+      rdfs:label    "H3BLG5" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2996A0C7C9C0FCE87DF8ABB789D06F80>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2996A0C7C9C0FCE87DF8ABB789D06F80" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3LRI6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q53Y97> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7LDK6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V5F9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5R363> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q9UMI8>
+      rdfs:label    "Q9UMI8" .
+
+<http://purl.uniprot.org/uniprot/J3KQT6>
+      rdfs:label    "J3KQT6" .
+
+<http://purl.uniprot.org/uniprot/D6RB30>
+      rdfs:label    "D6RB30" .
+
+<http://purl.uniprot.org/uniprot/I6TF01>
+      rdfs:label    "I6TF01" .
+
+<http://purl.uniprot.org/uniprot/Q9H8M5>
+      rdfs:label    "Q9H8M5" .
+
+<http://purl.uniprot.org/uniprot/P12036>
+      rdfs:label    "P12036" .
+
+<http://purl.uniprot.org/uniprot/B8LFN8>
+      rdfs:label    "B8LFN8" .
+
+<http://purl.uniprot.org/uniprot/P55072>
+      rdfs:label    "P55072" .
+
+<http://purl.uniprot.org/uniprot/Q3UPN1>
+      rdfs:label    "Q3UPN1" .
+
+<http://purl.uniprot.org/uniprot/F5H0Y9>
+      rdfs:label    "F5H0Y9" .
+
+<http://purl.uniprot.org/uniprot/A3KG41>
+      rdfs:label    "A3KG41" .
+
+<http://purl.uniprot.org/uniprot/Q497K3>
+      rdfs:label    "Q497K3" .
+
+<http://purl.uniprot.org/uniprot/Q9WVQ5>
+      rdfs:label    "Q9WVQ5" .
+
+<http://purl.uniprot.org/uniprot/Q91YI6>
+      rdfs:label    "Q91YI6" .
+
+<http://purl.uniprot.org/uniprot/Q9P2R7>
+      rdfs:label    "Q9P2R7" .
+
+<http://purl.uniprot.org/uniprot/B1AKV4>
+      rdfs:label    "B1AKV4" .
+
+<http://purl.uniprot.org/uniprot/P04187>
+      rdfs:label    "P04187" .
+
+<http://purl.uniprot.org/uniprot/A7UKX7>
+      rdfs:label    "A7UKX7" .
+
+<http://purl.uniprot.org/uniprot/C9JVD8>
+      rdfs:label    "C9JVD8" .
+
+<http://purl.uniprot.org/uniprot/F8VTT7>
+      rdfs:label    "F8VTT7" .
+
+<http://purl.uniprot.org/uniprot/K7ELQ0>
+      rdfs:label    "K7ELQ0" .
+
+<http://purl.uniprot.org/uniprot/H3BJH4>
+      rdfs:label    "H3BJH4" .
+
+<http://purl.uniprot.org/uniprot/M0QY85>
+      rdfs:label    "M0QY85" .
+
+<http://purl.uniprot.org/uniprot/Q6UX73>
+      rdfs:label    "Q6UX73" .
+
+<http://purl.uniprot.org/uniprot/Q3UY39>
+      rdfs:label    "Q3UY39" .
+
+<http://purl.uniprot.org/uniprot/P28063>
+      rdfs:label    "P28063" .
+
+<http://purl.uniprot.org/uniprot/E9PNK2>
+      rdfs:label    "E9PNK2" .
+
+<http://purl.uniprot.org/uniprot/H0YFD1>
+      rdfs:label    "H0YFD1" .
+
+<http://purl.uniprot.org/uniprot/Q13145>
+      rdfs:label    "Q13145" .
+
+<http://purl.uniprot.org/uniprot/I3PQW8>
+      rdfs:label    "I3PQW8" .
+
+<http://purl.uniprot.org/uniprot/Q96BM1>
+      rdfs:label    "Q96BM1" .
+
+<http://purl.uniprot.org/uniprot/F8WC64>
+      rdfs:label    "F8WC64" .
+
+<http://purl.uniprot.org/uniprot/B4DL14>
+      rdfs:label    "B4DL14" .
+
+<http://purl.uniprot.org/uniprot/F8WAH1>
+      rdfs:label    "F8WAH1" .
+
+<http://purl.uniprot.org/uniprot/C9JL94>
+      rdfs:label    "C9JL94" .
+
+<http://purl.uniprot.org/uniprot/P62877>
+      rdfs:label    "P62877" .
+
+<http://purl.uniprot.org/uniprot/B4DZ31>
+      rdfs:label    "B4DZ31" .
+
+<http://rdf.ebi.ac.uk/demo/sample/015C5FE8DBD7EE40A85B5FC0C6F94D9A>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #015C5FE8DBD7EE40A85B5FC0C6F94D9A" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IVU3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P13473> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P15927> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PD78> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P23258> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H6D6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7Z904> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7Z4N8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V126> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IZH9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PMU3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V3W4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/G3UZH2>
+      rdfs:label    "G3UZH2" .
+
+<http://purl.uniprot.org/uniprot/Q3UV66>
+      rdfs:label    "Q3UV66" .
+
+<http://purl.uniprot.org/uniprot/H0YM60>
+      rdfs:label    "H0YM60" .
+
+<http://purl.uniprot.org/uniprot/A8MU28>
+      rdfs:label    "A8MU28" .
+
+<http://purl.uniprot.org/uniprot/B4DSC0>
+      rdfs:label    "B4DSC0" .
+
+<http://purl.uniprot.org/uniprot/Q8N183>
+      rdfs:label    "Q8N183" .
+
+<http://purl.uniprot.org/uniprot/P70441>
+      rdfs:label    "P70441" .
+
+<http://purl.uniprot.org/uniprot/P97360>
+      rdfs:label    "P97360" .
+
+<http://purl.uniprot.org/uniprot/E5RH23>
+      rdfs:label    "E5RH23" .
+
+<http://purl.uniprot.org/uniprot/Q91Y98>
+      rdfs:label    "Q91Y98" .
+
+<http://purl.uniprot.org/uniprot/D3YYP8>
+      rdfs:label    "D3YYP8" .
+
+<http://purl.uniprot.org/uniprot/Q75MY8>
+      rdfs:label    "Q75MY8" .
+
+<http://purl.uniprot.org/uniprot/Q7Z543>
+      rdfs:label    "Q7Z543" .
+
+<http://purl.uniprot.org/uniprot/Q14195>
+      rdfs:label    "Q14195" .
+
+<http://purl.uniprot.org/uniprot/Q99ML3>
+      rdfs:label    "Q99ML3" .
+
+<http://purl.uniprot.org/uniprot/Q925T4>
+      rdfs:label    "Q925T4" .
+
+<http://purl.uniprot.org/uniprot/Q86X79>
+      rdfs:label    "Q86X79" .
+
+<http://purl.uniprot.org/uniprot/Q9CQ36>
+      rdfs:label    "Q9CQ36" .
+
+<http://purl.uniprot.org/uniprot/F8WH42>
+      rdfs:label    "F8WH42" .
+
+<http://purl.uniprot.org/uniprot/Q8IYH0>
+      rdfs:label    "Q8IYH0" .
+
+<http://purl.uniprot.org/uniprot/Q3U1J7>
+      rdfs:label    "Q3U1J7" .
+
+<http://purl.uniprot.org/uniprot/F8VUW4>
+      rdfs:label    "F8VUW4" .
+
+<http://purl.uniprot.org/uniprot/C9J685>
+      rdfs:label    "C9J685" .
+
+<http://purl.uniprot.org/uniprot/Q3TKR3>
+      rdfs:label    "Q3TKR3" .
+
+<http://purl.uniprot.org/uniprot/Q8NEM2>
+      rdfs:label    "Q8NEM2" .
+
+<http://purl.uniprot.org/uniprot/B4DX68>
+      rdfs:label    "B4DX68" .
+
+<http://purl.uniprot.org/uniprot/P63082>
+      rdfs:label    "P63082" .
+
+<http://purl.uniprot.org/uniprot/Q6ZWY3>
+      rdfs:label    "Q6ZWY3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/B33FCEA14F8A9101EA37318B9551B3D2>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #B33FCEA14F8A9101EA37318B9551B3D2" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D7N6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BLF5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TBM6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q3X0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U108> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TB93> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5NC81> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q810B6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q07174> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7ZC85> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P84244> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91Z25> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q9C004>
+      rdfs:label    "Q9C004" .
+
+<http://purl.uniprot.org/uniprot/Q8C2L5>
+      rdfs:label    "Q8C2L5" .
+
+<http://purl.uniprot.org/uniprot/B8ZZ51>
+      rdfs:label    "B8ZZ51" .
+
+<http://purl.uniprot.org/uniprot/E9PU89>
+      rdfs:label    "E9PU89" .
+
+<http://rdf.ebi.ac.uk/demo/sample/718E1B96266ECFB141161C4FD1795CC6>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #718E1B96266ECFB141161C4FD1795CC6" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D2P4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91Z40> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6LDK7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91WJ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RIM0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99J64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9DBR1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q4FJL9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D752> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BTZ9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AIW4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q71KU9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V011> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D8C9> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q49A69>
+      rdfs:label    "Q49A69" .
+
+<http://purl.uniprot.org/uniprot/Q9H3Y8>
+      rdfs:label    "Q9H3Y8" .
+
+<http://purl.uniprot.org/uniprot/Q91Z25>
+      rdfs:label    "Q91Z25" .
+
+<http://purl.uniprot.org/uniprot/F5GWN9>
+      rdfs:label    "F5GWN9" .
+
+<http://purl.uniprot.org/uniprot/B3KWG6>
+      rdfs:label    "B3KWG6" .
+
+<http://purl.uniprot.org/uniprot/Q6ZQI3>
+      rdfs:label    "Q6ZQI3" .
+
+<http://purl.uniprot.org/uniprot/E9PC84>
+      rdfs:label    "E9PC84" .
+
+<http://purl.uniprot.org/uniprot/G3V494>
+      rdfs:label    "G3V494" .
+
+<http://purl.uniprot.org/uniprot/J3KNV8>
+      rdfs:label    "J3KNV8" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E24FF0A467E894CABCEE6EFA771BA33D>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E24FF0A467E894CABCEE6EFA771BA33D" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CXQ4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q571E4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CZ90> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q32M02> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1ARC2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CQ36> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P50580> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2KG65> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P24668> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AHJ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91VI7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q5L6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AMS0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z0S8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QMN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YX05> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://rdf.ebi.ac.uk/demo/sample/CA881FE536EFCB5665CD0BD5275DB24C>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #CA881FE536EFCB5665CD0BD5275DB24C" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YMA4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RGM6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VUW4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DNE2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YK58> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2WTN6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8NEM2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JZQ9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V2B1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q67C41> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JGY5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q8WYK3>
+      rdfs:label    "Q8WYK3" .
+
+<http://purl.uniprot.org/uniprot/B4DRN7>
+      rdfs:label    "B4DRN7" .
+
+<http://purl.uniprot.org/uniprot/A2AMJ1>
+      rdfs:label    "A2AMJ1" .
+
+<http://purl.uniprot.org/uniprot/Q8SNB9>
+      rdfs:label    "Q8SNB9" .
+
+<http://purl.uniprot.org/uniprot/P58340>
+      rdfs:label    "P58340" .
+
+<http://purl.uniprot.org/uniprot/Q3TDZ5>
+      rdfs:label    "Q3TDZ5" .
+
+<http://purl.uniprot.org/uniprot/Q91WJ7>
+      rdfs:label    "Q91WJ7" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2495136965CC00D09527AEFCE7C57054>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2495136965CC00D09527AEFCE7C57054" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P10153> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/P09912>
+      rdfs:label    "P09912" .
+
+<http://purl.uniprot.org/uniprot/F2Z3W8>
+      rdfs:label    "F2Z3W8" .
+
+<http://purl.uniprot.org/uniprot/H3BK88>
+      rdfs:label    "H3BK88" .
+
+<http://purl.uniprot.org/uniprot/Q9Y3A2>
+      rdfs:label    "Q9Y3A2" .
+
+<http://purl.uniprot.org/uniprot/Q3TVC5>
+      rdfs:label    "Q3TVC5" .
+
+<http://rdf.ebi.ac.uk/demo/sample/278237CB9D2EB0022421E02915F4EFF9>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #278237CB9D2EB0022421E02915F4EFF9" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7ESH8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P55072> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P42224> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/B4DUS5>
+      rdfs:label    "B4DUS5" .
+
+<http://purl.uniprot.org/uniprot/H3BKF5>
+      rdfs:label    "H3BKF5" .
+
+<http://purl.uniprot.org/uniprot/B4DWC4>
+      rdfs:label    "B4DWC4" .
+
+<http://purl.uniprot.org/uniprot/Q7Z3V4>
+      rdfs:label    "Q7Z3V4" .
+
+<http://purl.uniprot.org/uniprot/Q9UJ37>
+      rdfs:label    "Q9UJ37" .
+
+<http://purl.uniprot.org/uniprot/B4DDW7>
+      rdfs:label    "B4DDW7" .
+
+<http://purl.uniprot.org/uniprot/I3L4G7>
+      rdfs:label    "I3L4G7" .
+
+<http://purl.uniprot.org/uniprot/Q8BZT9>
+      rdfs:label    "Q8BZT9" .
+
+<http://purl.uniprot.org/uniprot/Q64310>
+      rdfs:label    "Q64310" .
+
+<http://purl.uniprot.org/uniprot/Q75MY7>
+      rdfs:label    "Q75MY7" .
+
+<http://purl.uniprot.org/uniprot/D6R9S9>
+      rdfs:label    "D6R9S9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/CD8D84C600FD788BB0C0C4BDE1A39417>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #CD8D84C600FD788BB0C0C4BDE1A39417" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z3N1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RIN3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UUV9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CY08> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RHA0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CX25> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9QKL6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U726> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://rdf.ebi.ac.uk/demo/sample/6778809768AA2C958835646331EF7E4F>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #6778809768AA2C958835646331EF7E4F" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7KYY3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EM70> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IUX1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YLC2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q2VPE7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K4JUB1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2Z316> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DUL2> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/J3QLW6>
+      rdfs:label    "J3QLW6" .
+
+<http://purl.uniprot.org/uniprot/Q9R0S0>
+      rdfs:label    "Q9R0S0" .
+
+<http://rdf.ebi.ac.uk/demo/sample/EA18655965074E5AD43CFDB866342AF3>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #EA18655965074E5AD43CFDB866342AF3" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EU96> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VV39> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H9KVC3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PNR6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QS92> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q9UBI1>
+      rdfs:label    "Q9UBI1" .
+
+<http://purl.uniprot.org/uniprot/Q4FJL9>
+      rdfs:label    "Q4FJL9" .
+
+<http://purl.uniprot.org/uniprot/Q5TZN3>
+      rdfs:label    "Q5TZN3" .
+
+<http://purl.uniprot.org/uniprot/E9QL31>
+      rdfs:label    "E9QL31" .
+
+<http://purl.uniprot.org/uniprot/Q99N95>
+      rdfs:label    "Q99N95" .
+
+<http://purl.uniprot.org/uniprot/Q8NCT1>
+      rdfs:label    "Q8NCT1" .
+
+<http://purl.uniprot.org/uniprot/Q659C5>
+      rdfs:label    "Q659C5" .
+
+<http://purl.uniprot.org/uniprot/Q5R363>
+      rdfs:label    "Q5R363" .
+
+<http://purl.uniprot.org/uniprot/B3KNK9>
+      rdfs:label    "B3KNK9" .
+
+<http://purl.uniprot.org/uniprot/Q8CDN6>
+      rdfs:label    "Q8CDN6" .
+
+<http://purl.uniprot.org/uniprot/D3DPQ2>
+      rdfs:label    "D3DPQ2" .
+
+<http://purl.uniprot.org/uniprot/Q5QPE1>
+      rdfs:label    "Q5QPE1" .
+
+<http://purl.uniprot.org/uniprot/K4JUB1>
+      rdfs:label    "K4JUB1" .
+
+<http://purl.uniprot.org/uniprot/F8WAR2>
+      rdfs:label    "F8WAR2" .
+
+<http://purl.uniprot.org/uniprot/I3L509>
+      rdfs:label    "I3L509" .
+
+<http://purl.uniprot.org/uniprot/E9PPG9>
+      rdfs:label    "E9PPG9" .
+
+<http://purl.uniprot.org/uniprot/E5RJJ6>
+      rdfs:label    "E5RJJ6" .
+
+<http://purl.uniprot.org/uniprot/E0CX25>
+      rdfs:label    "E0CX25" .
+
+<http://rdf.ebi.ac.uk/demo/sample/686B1670518336B42340938969E5CB3E>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #686B1670518336B42340938969E5CB3E" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W8H7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ETJ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ES96> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7Z7P0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KPM9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5QPD2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q49A69> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P58340> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EKE5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/C9J5S9>
+      rdfs:label    "C9J5S9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/AB9C6FB069EB972B142D5C0FC54041D3>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #AB9C6FB069EB972B142D5C0FC54041D3" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9ES61> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A9C471> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q05BH6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QPY0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6ZWX6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6GQV1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PU89> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U1H4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8K1K3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q61462> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BK88> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7TSW1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CYZ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q0K6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P97360> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/O70145>
+      rdfs:label    "O70145" .
+
+<http://purl.uniprot.org/uniprot/I3L1E4>
+      rdfs:label    "I3L1E4" .
+
+<http://purl.uniprot.org/uniprot/G3XAC3>
+      rdfs:label    "G3XAC3" .
+
+<http://purl.uniprot.org/uniprot/P24668>
+      rdfs:label    "P24668" .
+
+<http://purl.uniprot.org/uniprot/Q9NY41>
+      rdfs:label    "Q9NY41" .
+
+<http://purl.uniprot.org/uniprot/Q3TBM6>
+      rdfs:label    "Q3TBM6" .
+
+<http://purl.uniprot.org/uniprot/Q64695>
+      rdfs:label    "Q64695" .
+
+<http://purl.uniprot.org/uniprot/Q9WUP1>
+      rdfs:label    "Q9WUP1" .
+
+<http://purl.uniprot.org/uniprot/B4DRE6>
+      rdfs:label    "B4DRE6" .
+
+<http://purl.uniprot.org/uniprot/Q99801>
+      rdfs:label    "Q99801" .
+
+<http://purl.uniprot.org/uniprot/Q3UKR0>
+      rdfs:label    "Q3UKR0" .
+
+<http://purl.uniprot.org/uniprot/E9Q579>
+      rdfs:label    "E9Q579" .
+
+<http://purl.uniprot.org/uniprot/J3KMX9>
+      rdfs:label    "J3KMX9" .
+
+<http://purl.uniprot.org/uniprot/Q2VPE7>
+      rdfs:label    "Q2VPE7" .
+
+<http://rdf.ebi.ac.uk/demo/sample/B28B0A11F37C9A556E4F5D9C5696C1B0>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #B28B0A11F37C9A556E4F5D9C5696C1B0" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9IYE8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J013> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P28070> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PBL0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3DS96> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DRN7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KS82> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PJ06> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YA53> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WBH4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G8JL98> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/A1E282>
+      rdfs:label    "A1E282" .
+
+<http://purl.uniprot.org/uniprot/Q544T4>
+      rdfs:label    "Q544T4" .
+
+<http://purl.uniprot.org/uniprot/K7EQ13>
+      rdfs:label    "K7EQ13" .
+
+<http://purl.uniprot.org/uniprot/O14530>
+      rdfs:label    "O14530" .
+
+<http://purl.uniprot.org/uniprot/H0YA53>
+      rdfs:label    "H0YA53" .
+
+<http://purl.uniprot.org/uniprot/P34995>
+      rdfs:label    "P34995" .
+
+<http://purl.uniprot.org/uniprot/C9JWR3>
+      rdfs:label    "C9JWR3" .
+
+<http://purl.uniprot.org/uniprot/Q8JZV7>
+      rdfs:label    "Q8JZV7" .
+
+<http://purl.uniprot.org/uniprot/K7EP90>
+      rdfs:label    "K7EP90" .
+
+<http://purl.uniprot.org/uniprot/Q8JZX6>
+      rdfs:label    "Q8JZX6" .
+
+<http://rdf.ebi.ac.uk/demo/sample/F13C84642B5C47A76D80645D856421AA>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #F13C84642B5C47A76D80645D856421AA" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H9KV70> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/Q545R3>
+      rdfs:label    "Q545R3" .
+
+<http://purl.uniprot.org/uniprot/F8W8H7>
+      rdfs:label    "F8W8H7" .
+
+<http://purl.uniprot.org/uniprot/F8WA66>
+      rdfs:label    "F8WA66" .
+
+<http://purl.uniprot.org/uniprot/D6RHK2>
+      rdfs:label    "D6RHK2" .
+
+<http://purl.uniprot.org/uniprot/P81117>
+      rdfs:label    "P81117" .
+
+<http://purl.uniprot.org/uniprot/Q9D992>
+      rdfs:label    "Q9D992" .
+
+<http://purl.uniprot.org/uniprot/Q5SVN9>
+      rdfs:label    "Q5SVN9" .
+
+<http://purl.uniprot.org/uniprot/C9J9P4>
+      rdfs:label    "C9J9P4" .
+
+<http://purl.uniprot.org/uniprot/Q9BTI9>
+      rdfs:label    "Q9BTI9" .
+
+<http://purl.uniprot.org/uniprot/Q5VU63>
+      rdfs:label    "Q5VU63" .
+
+<http://purl.uniprot.org/uniprot/J3QS92>
+      rdfs:label    "J3QS92" .
+
+<http://purl.uniprot.org/uniprot/B4DWD3>
+      rdfs:label    "B4DWD3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2488D0314970F031BA530CF1E15113D2>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2488D0314970F031BA530CF1E15113D2" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4E5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RHK2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YLD2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V2B8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8TCN6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EPV0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y676> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O14879> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O60486> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F6Q6H0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2R5P6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H425> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/E9PG39>
+      rdfs:label    "E9PG39" .
+
+<http://purl.uniprot.org/uniprot/D2KFR9>
+      rdfs:label    "D2KFR9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E65DBB1DE1BF4509FFBBDCD7B390A9BE>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E65DBB1DE1BF4509FFBBDCD7B390A9BE" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P80217> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YAL6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ES96> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YGN0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KNV8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QRA8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D2KFR9> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/J3KPH4>
+      rdfs:label    "J3KPH4" .
+
+<http://purl.uniprot.org/uniprot/E9PW35>
+      rdfs:label    "E9PW35" .
+
+<http://purl.uniprot.org/uniprot/J3QM80>
+      rdfs:label    "J3QM80" .
+
+<http://purl.uniprot.org/uniprot/I6TMT6>
+      rdfs:label    "I6TMT6" .
+
+<http://purl.uniprot.org/uniprot/F5H6E4>
+      rdfs:label    "F5H6E4" .
+
+<http://purl.uniprot.org/uniprot/Q9BU64>
+      rdfs:label    "Q9BU64" .
+
+<http://purl.uniprot.org/uniprot/Q3U8I1>
+      rdfs:label    "Q3U8I1" .
+
+<http://purl.uniprot.org/uniprot/Q5GMH1>
+      rdfs:label    "Q5GMH1" .
+
+<http://purl.uniprot.org/uniprot/P28838>
+      rdfs:label    "P28838" .
+
+<http://purl.uniprot.org/uniprot/J3KN59>
+      rdfs:label    "J3KN59" .
+
+<http://purl.uniprot.org/uniprot/F8WHU8>
+      rdfs:label    "F8WHU8" .
+
+<http://purl.uniprot.org/uniprot/Q8VC49>
+      rdfs:label    "Q8VC49" .
+
+<http://purl.uniprot.org/uniprot/Q9D103>
+      rdfs:label    "Q9D103" .
+
+<http://purl.uniprot.org/uniprot/D3YXU2>
+      rdfs:label    "D3YXU2" .
+
+<http://purl.uniprot.org/uniprot/G3V3I1>
+      rdfs:label    "G3V3I1" .
+
+<http://purl.uniprot.org/uniprot/E9PVP5>
+      rdfs:label    "E9PVP5" .
+
+<http://purl.uniprot.org/uniprot/Q7Z3R6>
+      rdfs:label    "Q7Z3R6" .
+
+<http://purl.uniprot.org/uniprot/Q6A0C2>
+      rdfs:label    "Q6A0C2" .
+
+<http://purl.uniprot.org/uniprot/D3DPC4>
+      rdfs:label    "D3DPC4" .
+
+<http://purl.uniprot.org/uniprot/J3KPA1>
+      rdfs:label    "J3KPA1" .
+
+<http://purl.uniprot.org/uniprot/B4DJE1>
+      rdfs:label    "B4DJE1" .
+
+<http://purl.uniprot.org/uniprot/J3KN19>
+      rdfs:label    "J3KN19" .
+
+<http://purl.uniprot.org/uniprot/C9JEN9>
+      rdfs:label    "C9JEN9" .
+
+<http://purl.uniprot.org/uniprot/G3V4E5>
+      rdfs:label    "G3V4E5" .
+
+<http://purl.uniprot.org/uniprot/F5H5X6>
+      rdfs:label    "F5H5X6" .
+
+<http://purl.uniprot.org/uniprot/P17433>
+      rdfs:label    "P17433" .
+
+<http://purl.uniprot.org/uniprot/B4E3L3>
+      rdfs:label    "B4E3L3" .
+
+<http://purl.uniprot.org/uniprot/B4DS50>
+      rdfs:label    "B4DS50" .
+
+<http://purl.uniprot.org/uniprot/B7Z904>
+      rdfs:label    "B7Z904" .
+
+<http://purl.uniprot.org/uniprot/O55135>
+      rdfs:label    "O55135" .
+
+<http://rdf.ebi.ac.uk/demo/sample/C5336B2237C9FA90C2217680E39572A8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #C5336B2237C9FA90C2217680E39572A8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BLT4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/E0CXQ4>
+      rdfs:label    "E0CXQ4" .
+
+<http://purl.uniprot.org/uniprot/A2AMI9>
+      rdfs:label    "A2AMI9" .
+
+<http://purl.uniprot.org/uniprot/Q8BHA0>
+      rdfs:label    "Q8BHA0" .
+
+<http://purl.uniprot.org/uniprot/Q99933>
+      rdfs:label    "Q99933" .
+
+<http://purl.uniprot.org/uniprot/O19807>
+      rdfs:label    "O19807" .
+
+<http://purl.uniprot.org/uniprot/Q3YB50>
+      rdfs:label    "Q3YB50" .
+
+<http://purl.uniprot.org/uniprot/D6RJJ2>
+      rdfs:label    "D6RJJ2" .
+
+<http://purl.uniprot.org/uniprot/B1ARC3>
+      rdfs:label    "B1ARC3" .
+
+<http://purl.uniprot.org/uniprot/D6RHA0>
+      rdfs:label    "D6RHA0" .
+
+<http://purl.uniprot.org/uniprot/Q6A053>
+      rdfs:label    "Q6A053" .
+
+<http://purl.uniprot.org/uniprot/B4DN22>
+      rdfs:label    "B4DN22" .
+
+<http://purl.uniprot.org/uniprot/H3BJ55>
+      rdfs:label    "H3BJ55" .
+
+<http://purl.uniprot.org/uniprot/F8VXF5>
+      rdfs:label    "F8VXF5" .
+
+<http://purl.uniprot.org/uniprot/G3V4U3>
+      rdfs:label    "G3V4U3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/34B36FC08E535FF974E21B82A0984EAA>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #34B36FC08E535FF974E21B82A0984EAA" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q653> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RET0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9EQQ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BZT9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BJQ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8JJN0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q925T4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q0X0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SS03> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z437> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/H0YLC2>
+      rdfs:label    "H0YLC2" .
+
+<http://purl.uniprot.org/uniprot/P51991>
+      rdfs:label    "P51991" .
+
+<http://purl.uniprot.org/uniprot/D3YYW8>
+      rdfs:label    "D3YYW8" .
+
+<http://purl.uniprot.org/uniprot/H3BJH7>
+      rdfs:label    "H3BJH7" .
+
+<http://purl.uniprot.org/uniprot/D3Z0S8>
+      rdfs:label    "D3Z0S8" .
+
+<http://purl.uniprot.org/uniprot/B5MCP4>
+      rdfs:label    "B5MCP4" .
+
+<http://purl.uniprot.org/uniprot/Q9H6R4>
+      rdfs:label    "Q9H6R4" .
+
+<http://purl.uniprot.org/uniprot/B4DU54>
+      rdfs:label    "B4DU54" .
+
+<http://purl.uniprot.org/uniprot/O75717>
+      rdfs:label    "O75717" .
+
+<http://purl.uniprot.org/uniprot/E7ESS4>
+      rdfs:label    "E7ESS4" .
+
+<http://purl.uniprot.org/uniprot/E7ERR5>
+      rdfs:label    "E7ERR5" .
+
+<http://purl.uniprot.org/uniprot/Q91Z40>
+      rdfs:label    "Q91Z40" .
+
+<http://purl.uniprot.org/uniprot/E7ES96>
+      rdfs:label    "E7ES96" .
+
+<http://purl.uniprot.org/uniprot/Q9BSK2>
+      rdfs:label    "Q9BSK2" .
+
+<http://purl.uniprot.org/uniprot/B1ARC2>
+      rdfs:label    "B1ARC2" .
+
+<http://purl.uniprot.org/uniprot/O60512>
+      rdfs:label    "O60512" .
+
+<http://purl.uniprot.org/uniprot/Q96DB6>
+      rdfs:label    "Q96DB6" .
+
+<http://rdf.ebi.ac.uk/demo/sample/9692EA8E7D0E6257A989CE2E03D014CF>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #9692EA8E7D0E6257A989CE2E03D014CF" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q60963> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q75N73> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QWJ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2A7G9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UY39> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P26955> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UV66> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SVN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P0C6B7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q64695> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UHD8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5F271> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CJA5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BKJ8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BVM9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BLG5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/G3V565>
+      rdfs:label    "G3V565" .
+
+<http://purl.uniprot.org/uniprot/F8W924>
+      rdfs:label    "F8W924" .
+
+<http://purl.uniprot.org/uniprot/D6R936>
+      rdfs:label    "D6R936" .
+
+<http://purl.uniprot.org/uniprot/Q3UJA1>
+      rdfs:label    "Q3UJA1" .
+
+<http://purl.uniprot.org/uniprot/Q9BWF4>
+      rdfs:label    "Q9BWF4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/13366A871D3F92AD7C26A7E93C31B6DD>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #13366A871D3F92AD7C26A7E93C31B6DD" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0R1X3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/Q3U1Q3>
+      rdfs:label    "Q3U1Q3" .
+
+<http://purl.uniprot.org/uniprot/J3KN56>
+      rdfs:label    "J3KN56" .
+
+<http://purl.uniprot.org/uniprot/E9PN39>
+      rdfs:label    "E9PN39" .
+
+<http://purl.uniprot.org/uniprot/Q67C41>
+      rdfs:label    "Q67C41" .
+
+<http://purl.uniprot.org/uniprot/Q544Z6>
+      rdfs:label    "Q544Z6" .
+
+<http://purl.uniprot.org/uniprot/Q8IXQ6>
+      rdfs:label    "Q8IXQ6" .
+
+<http://purl.uniprot.org/uniprot/A8K031>
+      rdfs:label    "A8K031" .
+
+<http://purl.uniprot.org/uniprot/M0QWJ6>
+      rdfs:label    "M0QWJ6" .
+
+<http://purl.uniprot.org/uniprot/B4DIZ6>
+      rdfs:label    "B4DIZ6" .
+
+<http://purl.uniprot.org/uniprot/Q5SYH8>
+      rdfs:label    "Q5SYH8" .
+
+<http://purl.uniprot.org/uniprot/H3BPV6>
+      rdfs:label    "H3BPV6" .
+
+<http://purl.uniprot.org/uniprot/P18405>
+      rdfs:label    "P18405" .
+
+<http://purl.uniprot.org/uniprot/D3YXY5>
+      rdfs:label    "D3YXY5" .
+
+<http://purl.uniprot.org/uniprot/P52565>
+      rdfs:label    "P52565" .
+
+<http://rdf.ebi.ac.uk/demo/sample/F8FA4265BC0A83614E9E693679F7B191>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #F8FA4265BC0A83614E9E693679F7B191" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91Y98> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AMI9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6A0C2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CZD3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F7BJB9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YVL0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8R2Q8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P06800> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99ML3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q987> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2VDH5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D8T2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D992> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AIW0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3UYZ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BKM5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O35626> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BJH7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P04187> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/B4DQR4>
+      rdfs:label    "B4DQR4" .
+
+<http://purl.uniprot.org/uniprot/E7ES73>
+      rdfs:label    "E7ES73" .
+
+<http://purl.uniprot.org/uniprot/B4E076>
+      rdfs:label    "B4E076" .
+
+<http://purl.uniprot.org/uniprot/G3V3Y3>
+      rdfs:label    "G3V3Y3" .
+
+<http://purl.uniprot.org/uniprot/B4E208>
+      rdfs:label    "B4E208" .
+
+<http://purl.uniprot.org/uniprot/D6RIN3>
+      rdfs:label    "D6RIN3" .
+
+<http://purl.uniprot.org/uniprot/O14626>
+      rdfs:label    "O14626" .
+
+<http://purl.uniprot.org/uniprot/Q60963>
+      rdfs:label    "Q60963" .
+
+<http://purl.uniprot.org/uniprot/B9EJR4>
+      rdfs:label    "B9EJR4" .
+
+<http://purl.uniprot.org/uniprot/H0YNB7>
+      rdfs:label    "H0YNB7" .
+
+<http://purl.uniprot.org/uniprot/I3L4S0>
+      rdfs:label    "I3L4S0" .
+
+<http://purl.uniprot.org/uniprot/F2Z2D6>
+      rdfs:label    "F2Z2D6" .
+
+<http://purl.uniprot.org/uniprot/G3V2B1>
+      rdfs:label    "G3V2B1" .
+
+<http://purl.uniprot.org/uniprot/F8VSH0>
+      rdfs:label    "F8VSH0" .
+
+<http://purl.uniprot.org/uniprot/O70310>
+      rdfs:label    "O70310" .
+
+<http://purl.uniprot.org/uniprot/E7EUJ1>
+      rdfs:label    "E7EUJ1" .
+
+<http://purl.uniprot.org/uniprot/L7N1X8>
+      rdfs:label    "L7N1X8" .
+
+<http://purl.uniprot.org/uniprot/Q9BTE1>
+      rdfs:label    "Q9BTE1" .
+
+<http://purl.uniprot.org/uniprot/P57746>
+      rdfs:label    "P57746" .
+
+<http://purl.uniprot.org/uniprot/H0YGN0>
+      rdfs:label    "H0YGN0" .
+
+<http://purl.uniprot.org/uniprot/O75594>
+      rdfs:label    "O75594" .
+
+<http://rdf.ebi.ac.uk/demo/sample/4FE71FBF50FD37D143F097BE789C33E6>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #4FE71FBF50FD37D143F097BE789C33E6" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PXZ8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9ES90> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RG55> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AWF8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6QX36> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YYY2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BKE8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q922F4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91V81> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AMJ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6IRU5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SYH8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q987> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U9E2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O70310> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/P24844>
+      rdfs:label    "P24844" .
+
+<http://purl.uniprot.org/uniprot/C9JUW4>
+      rdfs:label    "C9JUW4" .
+
+<http://purl.uniprot.org/uniprot/E9PPA5>
+      rdfs:label    "E9PPA5" .
+
+<http://purl.uniprot.org/uniprot/Q9Y676>
+      rdfs:label    "Q9Y676" .
+
+<http://purl.uniprot.org/uniprot/P78406>
+      rdfs:label    "P78406" .
+
+<http://purl.uniprot.org/uniprot/O60486>
+      rdfs:label    "O60486" .
+
+<http://purl.uniprot.org/uniprot/B1ASU9>
+      rdfs:label    "B1ASU9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/7D493DD38101D62B7400186466FA203B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #7D493DD38101D62B7400186466FA203B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NTJ3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q53S54> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UM00> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2R5P6> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/B1AVH7>
+      rdfs:label    "B1AVH7" .
+
+<http://rdf.ebi.ac.uk/demo/sample/783DBFE50D4A5E1DBC5BB02FE7E5DDC0>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #783DBFE50D4A5E1DBC5BB02FE7E5DDC0" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3ZAX5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AI17> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CX64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O78207> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P63082> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UPW2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D168> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/P21981>
+      rdfs:label    "P21981" .
+
+<http://purl.uniprot.org/uniprot/P0C6B7>
+      rdfs:label    "P0C6B7" .
+
+<http://purl.uniprot.org/uniprot/Q99650>
+      rdfs:label    "Q99650" .
+
+<http://purl.uniprot.org/uniprot/Q564E2>
+      rdfs:label    "Q564E2" .
+
+<http://purl.uniprot.org/uniprot/Q96TA1>
+      rdfs:label    "Q96TA1" .
+
+<http://purl.uniprot.org/uniprot/P52701>
+      rdfs:label    "P52701" .
+
+<http://purl.uniprot.org/uniprot/Q5T9Q8>
+      rdfs:label    "Q5T9Q8" .
+
+<http://rdf.ebi.ac.uk/demo/sample/EFB6AFEC6C1589EFA7B5839F8A82A5F8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #EFB6AFEC6C1589EFA7B5839F8A82A5F8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C0V1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/C9IYA5>
+      rdfs:label    "C9IYA5" .
+
+<http://purl.uniprot.org/uniprot/B7Z2R9>
+      rdfs:label    "B7Z2R9" .
+
+<http://purl.uniprot.org/uniprot/Q0G847>
+      rdfs:label    "Q0G847" .
+
+<http://purl.uniprot.org/uniprot/Q8TCN6>
+      rdfs:label    "Q8TCN6" .
+
+<http://purl.uniprot.org/uniprot/Q3UNJ0>
+      rdfs:label    "Q3UNJ0" .
+
+<http://purl.uniprot.org/uniprot/H0YK58>
+      rdfs:label    "H0YK58" .
+
+<http://purl.uniprot.org/uniprot/P11672>
+      rdfs:label    "P11672" .
+
+<http://purl.uniprot.org/uniprot/Q99J64>
+      rdfs:label    "Q99J64" .
+
+<http://purl.uniprot.org/uniprot/Q7KYY3>
+      rdfs:label    "Q7KYY3" .
+
+<http://purl.uniprot.org/uniprot/H3BSB8>
+      rdfs:label    "H3BSB8" .
+
+<http://rdf.ebi.ac.uk/demo/sample/C529493D9C27C621F0DF78E527D18A6F>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #C529493D9C27C621F0DF78E527D18A6F" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CAR0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8VC49> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q2L7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RJI8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8K335> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PWL0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UPN1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O08992> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U8I1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/H0YJL7>
+      rdfs:label    "H0YJL7" .
+
+<http://purl.uniprot.org/uniprot/B7Z4N8>
+      rdfs:label    "B7Z4N8" .
+
+<http://purl.uniprot.org/uniprot/Q3UG45>
+      rdfs:label    "Q3UG45" .
+
+<http://purl.uniprot.org/uniprot/F8W8A6>
+      rdfs:label    "F8W8A6" .
+
+<http://purl.uniprot.org/uniprot/O70252>
+      rdfs:label    "O70252" .
+
+<http://purl.uniprot.org/uniprot/D6RC01>
+      rdfs:label    "D6RC01" .
+
+<http://rdf.ebi.ac.uk/demo/sample/84D433F5BAD15D4A72E8B3F4E2DB8832>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #84D433F5BAD15D4A72E8B3F4E2DB8832" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UMI8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O75530> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V1X9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q53S54> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KN56> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L4G7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YA62> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RJM9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6R936> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JXZ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J2I1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/F8WHA7>
+      rdfs:label    "F8WHA7" .
+
+<http://purl.uniprot.org/uniprot/D6RF62>
+      rdfs:label    "D6RF62" .
+
+<http://purl.uniprot.org/uniprot/Q6PD62>
+      rdfs:label    "Q6PD62" .
+
+<http://purl.uniprot.org/uniprot/G3UZ59>
+      rdfs:label    "G3UZ59" .
+
+<http://purl.uniprot.org/uniprot/E9PJ06>
+      rdfs:label    "E9PJ06" .
+
+<http://rdf.ebi.ac.uk/demo/sample/AC31299867BC0176FEF24774FF4241E7>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #AC31299867BC0176FEF24774FF4241E7" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CYI0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9QL31> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2VCP1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C9B8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TR28> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q6P1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q544F3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PWW2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9JHJ8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WH42> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P62073> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U5I5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AES3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P70441> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8VHK4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U0U2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9QX37> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P17710> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/P57088>
+      rdfs:label    "P57088" .
+
+<http://purl.uniprot.org/uniprot/P80217>
+      rdfs:label    "P80217" .
+
+<http://purl.uniprot.org/uniprot/Q9DBR1>
+      rdfs:label    "Q9DBR1" .
+
+<http://purl.uniprot.org/uniprot/Q32Q14>
+      rdfs:label    "Q32Q14" .
+
+<http://rdf.ebi.ac.uk/demo/sample/C793DEAFCB226C7C52728BA5AF5DE4FC>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #C793DEAFCB226C7C52728BA5AF5DE4FC" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q925P3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CDN6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P58242> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D456> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B9EJR4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3X9Z3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8R239> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9WUP1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CR56> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3X949> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RDU0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BYY4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q8BVM9>
+      rdfs:label    "Q8BVM9" .
+
+<http://purl.uniprot.org/uniprot/J3QMN9>
+      rdfs:label    "J3QMN9" .
+
+<http://purl.uniprot.org/uniprot/D3DS96>
+      rdfs:label    "D3DS96" .
+
+<http://purl.uniprot.org/uniprot/H3BMR3>
+      rdfs:label    "H3BMR3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/7F3A4C4C545DA713155FBCED303768A8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #7F3A4C4C545DA713155FBCED303768A8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E0CXX4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9DAV9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U0S8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Z1Q5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9QAJ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YYW8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q6P1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YU16> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YZP0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7BWZ1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P54823> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U605> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://rdf.ebi.ac.uk/demo/sample/E68BC7A5548A457539832A12B2BCC32E>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E68BC7A5548A457539832A12B2BCC32E" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QK51> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U8S1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9R0Q8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q579> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9JKV8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1ASU9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A3KG41> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2VDH5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1AVH7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CB10> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P17433> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TKR3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q80UK7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PYK0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P42227> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6ZWY3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/G3V4P4>
+      rdfs:label    "G3V4P4" .
+
+<http://purl.uniprot.org/uniprot/Q3LRI6>
+      rdfs:label    "Q3LRI6" .
+
+<http://purl.uniprot.org/uniprot/J3KTL4>
+      rdfs:label    "J3KTL4" .
+
+<http://purl.uniprot.org/uniprot/M0R2D3>
+      rdfs:label    "M0R2D3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/A73DF2821D7B408B4A0ABABF6FDA8389>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #A73DF2821D7B408B4A0ABABF6FDA8389" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q15437> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YGJ3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0Y9U8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WCB7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3DPC4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V449> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8LFN8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QZL5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y375> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/J3QTA2>
+      rdfs:label    "J3QTA2" .
+
+<http://purl.uniprot.org/uniprot/A3KGH7>
+      rdfs:label    "A3KGH7" .
+
+<http://purl.uniprot.org/uniprot/B4DP90>
+      rdfs:label    "B4DP90" .
+
+<http://purl.uniprot.org/uniprot/Q99L85>
+      rdfs:label    "Q99L85" .
+
+<http://purl.uniprot.org/uniprot/F8WAX7>
+      rdfs:label    "F8WAX7" .
+
+<http://purl.uniprot.org/uniprot/F6S093>
+      rdfs:label    "F6S093" .
+
+<http://purl.uniprot.org/uniprot/E9PDF6>
+      rdfs:label    "E9PDF6" .
+
+<http://purl.uniprot.org/uniprot/B7ZC54>
+      rdfs:label    "B7ZC54" .
+
+<http://purl.uniprot.org/uniprot/P30204>
+      rdfs:label    "P30204" .
+
+<http://purl.uniprot.org/uniprot/B0QY21>
+      rdfs:label    "B0QY21" .
+
+<http://purl.uniprot.org/uniprot/Q3TB93>
+      rdfs:label    "Q3TB93" .
+
+<http://purl.uniprot.org/uniprot/A2AQW3>
+      rdfs:label    "A2AQW3" .
+
+<http://purl.uniprot.org/uniprot/E9Q987>
+      rdfs:label    "E9Q987" .
+
+<http://purl.uniprot.org/uniprot/G3V5F9>
+      rdfs:label    "G3V5F9" .
+
+<http://purl.uniprot.org/uniprot/Q96KP4>
+      rdfs:label    "Q96KP4" .
+
+<http://purl.uniprot.org/uniprot/Q3U726>
+      rdfs:label    "Q3U726" .
+
+<http://purl.uniprot.org/uniprot/D6RG07>
+      rdfs:label    "D6RG07" .
+
+<http://rdf.ebi.ac.uk/demo/sample/AA3D1CA539D292A96F5796D13C30CF0C>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #AA3D1CA539D292A96F5796D13C30CF0C" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W0L1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NXQ9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QRB2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4R4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RFM4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YNU4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P52701> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q8VHK4>
+      rdfs:label    "Q8VHK4" .
+
+<http://purl.uniprot.org/uniprot/F5H6U7>
+      rdfs:label    "F5H6U7" .
+
+<http://purl.uniprot.org/uniprot/Q7Z7K0>
+      rdfs:label    "Q7Z7K0" .
+
+<http://purl.uniprot.org/uniprot/E7ETN6>
+      rdfs:label    "E7ETN6" .
+
+<http://purl.uniprot.org/uniprot/P10810>
+      rdfs:label    "P10810" .
+
+<http://purl.uniprot.org/uniprot/E9PJV6>
+      rdfs:label    "E9PJV6" .
+
+<http://purl.uniprot.org/uniprot/F8VRG3>
+      rdfs:label    "F8VRG3" .
+
+<http://purl.uniprot.org/uniprot/K7EPV0>
+      rdfs:label    "K7EPV0" .
+
+<http://purl.uniprot.org/uniprot/Q3U8Y7>
+      rdfs:label    "Q3U8Y7" .
+
+<http://purl.uniprot.org/uniprot/I3L1Y4>
+      rdfs:label    "I3L1Y4" .
+
+<http://purl.uniprot.org/uniprot/C9JZQ9>
+      rdfs:label    "C9JZQ9" .
+
+<http://purl.uniprot.org/uniprot/C9JXY8>
+      rdfs:label    "C9JXY8" .
+
+<http://purl.uniprot.org/uniprot/E9PCS3>
+      rdfs:label    "E9PCS3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/8791416999777B09652A4B1A08FDE858>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #8791416999777B09652A4B1A08FDE858" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P28838> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9HCM1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WA66> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8N6R0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KPM7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H1UBN2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PNK2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q75MQ0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RH00> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W8A6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A5YRV0> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/P07686>
+      rdfs:label    "P07686" .
+
+<http://purl.uniprot.org/uniprot/F8WDZ2>
+      rdfs:label    "F8WDZ2" .
+
+<http://purl.uniprot.org/uniprot/Q96FA6>
+      rdfs:label    "Q96FA6" .
+
+<http://purl.uniprot.org/uniprot/Q9D8C9>
+      rdfs:label    "Q9D8C9" .
+
+<http://purl.uniprot.org/uniprot/J3QRA8>
+      rdfs:label    "J3QRA8" .
+
+<http://purl.uniprot.org/uniprot/P34884>
+      rdfs:label    "P34884" .
+
+<http://purl.uniprot.org/uniprot/E5RHF7>
+      rdfs:label    "E5RHF7" .
+
+<http://purl.uniprot.org/uniprot/Q3U8G5>
+      rdfs:label    "Q3U8G5" .
+
+<http://purl.uniprot.org/uniprot/G3V2B8>
+      rdfs:label    "G3V2B8" .
+
+<http://purl.uniprot.org/uniprot/F5H0C8>
+      rdfs:label    "F5H0C8" .
+
+<http://purl.uniprot.org/uniprot/Q3TYS2>
+      rdfs:label    "Q3TYS2" .
+
+<http://purl.uniprot.org/uniprot/P58681>
+      rdfs:label    "P58681" .
+
+<http://purl.uniprot.org/uniprot/D3YU16>
+      rdfs:label    "D3YU16" .
+
+<http://purl.uniprot.org/uniprot/Q8C6N4>
+      rdfs:label    "Q8C6N4" .
+
+<http://purl.uniprot.org/uniprot/Q61147>
+      rdfs:label    "Q61147" .
+
+<http://purl.uniprot.org/uniprot/Q922F4>
+      rdfs:label    "Q922F4" .
+
+<http://purl.uniprot.org/uniprot/G9HWA9>
+      rdfs:label    "G9HWA9" .
+
+<http://purl.uniprot.org/uniprot/G8JL98>
+      rdfs:label    "G8JL98" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E6EF178FF4E0851BCEF92A30F008E267>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E6EF178FF4E0851BCEF92A30F008E267" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5KS60> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96FA6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KS55> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RJX7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DRE6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5TZN3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W924> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UKT4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/C9IYE8>
+      rdfs:label    "C9IYE8" .
+
+<http://purl.uniprot.org/uniprot/O35904>
+      rdfs:label    "O35904" .
+
+<http://purl.uniprot.org/uniprot/A9C471>
+      rdfs:label    "A9C471" .
+
+<http://purl.uniprot.org/uniprot/C9JRZ6>
+      rdfs:label    "C9JRZ6" .
+
+<http://purl.uniprot.org/uniprot/Q6TV15>
+      rdfs:label    "Q6TV15" .
+
+<http://purl.uniprot.org/uniprot/O14879>
+      rdfs:label    "O14879" .
+
+<http://purl.uniprot.org/uniprot/Q9JHJ8>
+      rdfs:label    "Q9JHJ8" .
+
+<http://purl.uniprot.org/uniprot/G3V4J1>
+      rdfs:label    "G3V4J1" .
+
+<http://purl.uniprot.org/uniprot/H0YLS6>
+      rdfs:label    "H0YLS6" .
+
+<http://purl.uniprot.org/uniprot/D3Z5V3>
+      rdfs:label    "D3Z5V3" .
+
+<http://purl.uniprot.org/uniprot/Q96FU6>
+      rdfs:label    "Q96FU6" .
+
+<http://purl.uniprot.org/uniprot/O35626>
+      rdfs:label    "O35626" .
+
+<http://purl.uniprot.org/uniprot/Q5JSK9>
+      rdfs:label    "Q5JSK9" .
+
+<http://purl.uniprot.org/uniprot/E9PYK0>
+      rdfs:label    "E9PYK0" .
+
+<http://rdf.ebi.ac.uk/demo/sample/7B44077B5B07A1CA05482ABA77C31E96>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #7B44077B5B07A1CA05482ABA77C31E96" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KPA1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/C9JJ35>
+      rdfs:label    "C9JJ35" .
+
+<http://purl.uniprot.org/uniprot/Q03734>
+      rdfs:label    "Q03734" .
+
+<http://purl.uniprot.org/uniprot/Q3U5I5>
+      rdfs:label    "Q3U5I5" .
+
+<http://purl.uniprot.org/uniprot/E7ENR4>
+      rdfs:label    "E7ENR4" .
+
+<http://purl.uniprot.org/uniprot/A2AMS0>
+      rdfs:label    "A2AMS0" .
+
+<http://purl.uniprot.org/uniprot/Q53RU4>
+      rdfs:label    "Q53RU4" .
+
+<http://purl.uniprot.org/uniprot/D3TTZ0>
+      rdfs:label    "D3TTZ0" .
+
+<http://purl.uniprot.org/uniprot/F8W0M9>
+      rdfs:label    "F8W0M9" .
+
+<http://purl.uniprot.org/uniprot/Q5QR36>
+      rdfs:label    "Q5QR36" .
+
+<http://rdf.ebi.ac.uk/demo/sample/8D3CFD9E3E0E46DBD8E3F083742D9085>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #8D3CFD9E3E0E46DBD8E3F083742D9085" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V5N4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B3KXE0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H2F4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KPH4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YKQ5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6FIF0> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q16585>
+      rdfs:label    "Q16585" .
+
+<http://purl.uniprot.org/uniprot/A8K2A1>
+      rdfs:label    "A8K2A1" .
+
+<http://purl.uniprot.org/uniprot/Q99P86>
+      rdfs:label    "Q99P86" .
+
+<http://purl.uniprot.org/uniprot/P08195>
+      rdfs:label    "P08195" .
+
+<http://purl.uniprot.org/uniprot/D6RJI8>
+      rdfs:label    "D6RJI8" .
+
+<http://purl.uniprot.org/uniprot/E5RJ08>
+      rdfs:label    "E5RJ08" .
+
+<http://purl.uniprot.org/uniprot/Q9CR56>
+      rdfs:label    "Q9CR56" .
+
+<http://purl.uniprot.org/uniprot/E7EU96>
+      rdfs:label    "E7EU96" .
+
+<http://purl.uniprot.org/uniprot/Q62159>
+      rdfs:label    "Q62159" .
+
+<http://purl.uniprot.org/uniprot/Q8IUX1>
+      rdfs:label    "Q8IUX1" .
+
+<http://purl.uniprot.org/uniprot/K7ESH8>
+      rdfs:label    "K7ESH8" .
+
+<http://purl.uniprot.org/uniprot/P23526>
+      rdfs:label    "P23526" .
+
+<http://purl.uniprot.org/uniprot/F2Z361>
+      rdfs:label    "F2Z361" .
+
+<http://purl.uniprot.org/uniprot/Q3UPF7>
+      rdfs:label    "Q3UPF7" .
+
+<http://purl.uniprot.org/uniprot/Q9ERG0>
+      rdfs:label    "Q9ERG0" .
+
+<http://purl.uniprot.org/uniprot/C9J5D8>
+      rdfs:label    "C9J5D8" .
+
+<http://purl.uniprot.org/uniprot/H3BLF5>
+      rdfs:label    "H3BLF5" .
+
+<http://purl.uniprot.org/uniprot/J3KR82>
+      rdfs:label    "J3KR82" .
+
+<http://purl.uniprot.org/uniprot/M0QX64>
+      rdfs:label    "M0QX64" .
+
+<http://purl.uniprot.org/uniprot/A6PVS0>
+      rdfs:label    "A6PVS0" .
+
+<http://purl.uniprot.org/uniprot/B8ZZ85>
+      rdfs:label    "B8ZZ85" .
+
+<http://purl.uniprot.org/uniprot/Q8BYY4>
+      rdfs:label    "Q8BYY4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/429130F32BE410FA3ADF6C38C31E1DBF>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #429130F32BE410FA3ADF6C38C31E1DBF" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0Y881> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RHF7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EWS7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P62877> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RFM6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6LC83> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9HCM1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P57088> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y6N5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V1T4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DL14> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JKE4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J3M3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q9BQ75>
+      rdfs:label    "Q9BQ75" .
+
+<http://purl.uniprot.org/uniprot/J3QRB2>
+      rdfs:label    "J3QRB2" .
+
+<http://purl.uniprot.org/uniprot/Q3U9V5>
+      rdfs:label    "Q3U9V5" .
+
+<http://purl.uniprot.org/uniprot/G3V011>
+      rdfs:label    "G3V011" .
+
+<http://purl.uniprot.org/uniprot/D3YW23>
+      rdfs:label    "D3YW23" .
+
+<http://purl.uniprot.org/uniprot/Q9NWW0>
+      rdfs:label    "Q9NWW0" .
+
+<http://purl.uniprot.org/uniprot/Q80UK7>
+      rdfs:label    "Q80UK7" .
+
+<http://purl.uniprot.org/uniprot/B8ZZ09>
+      rdfs:label    "B8ZZ09" .
+
+<http://purl.uniprot.org/uniprot/Q9D7N6>
+      rdfs:label    "Q9D7N6" .
+
+<http://purl.uniprot.org/uniprot/J3KPM7>
+      rdfs:label    "J3KPM7" .
+
+<http://purl.uniprot.org/uniprot/P06800>
+      rdfs:label    "P06800" .
+
+<http://purl.uniprot.org/uniprot/B9A067>
+      rdfs:label    "B9A067" .
+
+<http://purl.uniprot.org/uniprot/D3DUG9>
+      rdfs:label    "D3DUG9" .
+
+<http://purl.uniprot.org/uniprot/H9CWI2>
+      rdfs:label    "H9CWI2" .
+
+<http://purl.uniprot.org/uniprot/G3UYZ1>
+      rdfs:label    "G3UYZ1" .
+
+<http://purl.uniprot.org/uniprot/Q9H490>
+      rdfs:label    "Q9H490" .
+
+<http://purl.uniprot.org/uniprot/Q3UPF5>
+      rdfs:label    "Q3UPF5" .
+
+<http://purl.uniprot.org/uniprot/F8WBH4>
+      rdfs:label    "F8WBH4" .
+
+<http://purl.uniprot.org/uniprot/E9Q653>
+      rdfs:label    "E9Q653" .
+
+<http://purl.uniprot.org/uniprot/D3DNS0>
+      rdfs:label    "D3DNS0" .
+
+<http://purl.uniprot.org/uniprot/Q544F6>
+      rdfs:label    "Q544F6" .
+
+<http://purl.uniprot.org/uniprot/B7ZLI7>
+      rdfs:label    "B7ZLI7" .
+
+<http://purl.uniprot.org/uniprot/D3YYY2>
+      rdfs:label    "D3YYY2" .
+
+<http://purl.uniprot.org/uniprot/O75530>
+      rdfs:label    "O75530" .
+
+<http://purl.uniprot.org/uniprot/C9JYV5>
+      rdfs:label    "C9JYV5" .
+
+<http://purl.uniprot.org/uniprot/Q3UUV9>
+      rdfs:label    "Q3UUV9" .
+
+<http://purl.uniprot.org/uniprot/O94777>
+      rdfs:label    "O94777" .
+
+<http://purl.uniprot.org/uniprot/C9J2N3>
+      rdfs:label    "C9J2N3" .
+
+<http://purl.uniprot.org/uniprot/P30280>
+      rdfs:label    "P30280" .
+
+<http://purl.uniprot.org/uniprot/E9Q5L6>
+      rdfs:label    "E9Q5L6" .
+
+<http://purl.uniprot.org/uniprot/Q9D456>
+      rdfs:label    "Q9D456" .
+
+<http://purl.uniprot.org/uniprot/M0R1K9>
+      rdfs:label    "M0R1K9" .
+
+<http://purl.uniprot.org/uniprot/O60344>
+      rdfs:label    "O60344" .
+
+<http://purl.uniprot.org/uniprot/E0CYZ1>
+      rdfs:label    "E0CYZ1" .
+
+<http://purl.uniprot.org/uniprot/G3V4R4>
+      rdfs:label    "G3V4R4" .
+
+<http://purl.uniprot.org/uniprot/Q3UHD8>
+      rdfs:label    "Q3UHD8" .
+
+<http://purl.uniprot.org/uniprot/H9KV70>
+      rdfs:label    "H9KV70" .
+
+<http://purl.uniprot.org/uniprot/B4DUL2>
+      rdfs:label    "B4DUL2" .
+
+<http://purl.uniprot.org/uniprot/Q9QX37>
+      rdfs:label    "Q9QX37" .
+
+<http://purl.uniprot.org/uniprot/Q9HC12>
+      rdfs:label    "Q9HC12" .
+
+<http://purl.uniprot.org/uniprot/H7C2W7>
+      rdfs:label    "H7C2W7" .
+
+<http://purl.uniprot.org/uniprot/F8WCB7>
+      rdfs:label    "F8WCB7" .
+
+<http://purl.uniprot.org/uniprot/Q99547>
+      rdfs:label    "Q99547" .
+
+<http://purl.uniprot.org/uniprot/Q91YD3>
+      rdfs:label    "Q91YD3" .
+
+<http://purl.uniprot.org/uniprot/Q9UBC3>
+      rdfs:label    "Q9UBC3" .
+
+<http://purl.uniprot.org/uniprot/G3V126>
+      rdfs:label    "G3V126" .
+
+<http://rdf.ebi.ac.uk/demo/sample/498E3D6CD1956C30F0563CD738B0F362>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #498E3D6CD1956C30F0563CD738B0F362" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2Z3W8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U1Q3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RJJ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PZD0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PV24> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C9B8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TRK1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/P62073>
+      rdfs:label    "P62073" .
+
+<http://rdf.ebi.ac.uk/demo/sample/8904C55EAB26D43C7A31DCBDB443AF78>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #8904C55EAB26D43C7A31DCBDB443AF78" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JZT2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J9P4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EW52> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VZX2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NXR5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E3W978> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L4S0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5T9Q8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://rdf.ebi.ac.uk/demo/sample/1B699F1064CDDF9C7AFE59D7C1CD8E66>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #1B699F1064CDDF9C7AFE59D7C1CD8E66" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YMI6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YM60> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IUX1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QX64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q16083> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RJI7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RFY1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/G3V5R1>
+      rdfs:label    "G3V5R1" .
+
+<http://purl.uniprot.org/uniprot/O35714>
+      rdfs:label    "O35714" .
+
+<http://purl.uniprot.org/uniprot/J3KPM9>
+      rdfs:label    "J3KPM9" .
+
+<http://purl.uniprot.org/uniprot/F8VRE8>
+      rdfs:label    "F8VRE8" .
+
+<http://purl.uniprot.org/uniprot/G3V449>
+      rdfs:label    "G3V449" .
+
+<http://purl.uniprot.org/uniprot/Q14103>
+      rdfs:label    "Q14103" .
+
+<http://purl.uniprot.org/uniprot/Q810B6>
+      rdfs:label    "Q810B6" .
+
+<http://purl.uniprot.org/uniprot/A6NIR2>
+      rdfs:label    "A6NIR2" .
+
+<http://rdf.ebi.ac.uk/demo/sample/42662F4A1B9E58317AB6D3E3B7BC37C3>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #42662F4A1B9E58317AB6D3E3B7BC37C3" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91X72> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UAZ3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O89113> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UDL4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WHA7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U8G5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8R582> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3PQW8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2ABP5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TLX9> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/F5H2B7>
+      rdfs:label    "F5H2B7" .
+
+<http://purl.uniprot.org/uniprot/E7ETJ2>
+      rdfs:label    "E7ETJ2" .
+
+<http://purl.uniprot.org/uniprot/P56477>
+      rdfs:label    "P56477" .
+
+<http://purl.uniprot.org/uniprot/Q3U108>
+      rdfs:label    "Q3U108" .
+
+<http://purl.uniprot.org/uniprot/Q9NVI1>
+      rdfs:label    "Q9NVI1" .
+
+<http://purl.uniprot.org/uniprot/Q6ZVF9>
+      rdfs:label    "Q6ZVF9" .
+
+<http://purl.uniprot.org/uniprot/Q9CZB6>
+      rdfs:label    "Q9CZB6" .
+
+<http://purl.uniprot.org/uniprot/O96028>
+      rdfs:label    "O96028" .
+
+<http://purl.uniprot.org/uniprot/Q8CGT6>
+      rdfs:label    "Q8CGT6" .
+
+<http://purl.uniprot.org/uniprot/Q3TZN4>
+      rdfs:label    "Q3TZN4" .
+
+<http://purl.uniprot.org/uniprot/H3BRJ7>
+      rdfs:label    "H3BRJ7" .
+
+<http://purl.uniprot.org/uniprot/P84244>
+      rdfs:label    "P84244" .
+
+<http://rdf.ebi.ac.uk/demo/sample/C7CC0053FC3B93CA01D40B382E54895B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #C7CC0053FC3B93CA01D40B382E54895B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RG37> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7ELQ0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P50213> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8SNB9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QX14> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q92820> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KT25> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ENR4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0R1K9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y3A2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q13145> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H6U7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99650> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96BM1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9MY32> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P35250> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H6R4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W0M9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5QR36> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7Z3V4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BV93> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A8K2A1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JCB7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q75MY7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7ENV1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7ENM2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BWF4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8N183> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DG01> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EKL1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O96020> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8SP64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P01111> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RB29> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2RB70> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q14195> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NVV5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BPV6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RCT8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BQ75> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IZ73> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RDH5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J685> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JIV1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8N1Q1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RJJ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7C551> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O95992> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2Z2D6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L1E4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G1UD80> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96FU6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D1LZJ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DS50> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JRB3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/O43182>
+      rdfs:label    "O43182" .
+
+<http://purl.uniprot.org/uniprot/P62826>
+      rdfs:label    "P62826" .
+
+<http://purl.uniprot.org/uniprot/Q9Y5Q9>
+      rdfs:label    "Q9Y5Q9" .
+
+<http://purl.uniprot.org/uniprot/K7EP68>
+      rdfs:label    "K7EP68" .
+
+<http://purl.uniprot.org/uniprot/Q7TSW1>
+      rdfs:label    "Q7TSW1" .
+
+<http://purl.uniprot.org/uniprot/C9JIV1>
+      rdfs:label    "C9JIV1" .
+
+<http://purl.uniprot.org/uniprot/P07900>
+      rdfs:label    "P07900" .
+
+<http://purl.uniprot.org/uniprot/G3V5N4>
+      rdfs:label    "G3V5N4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/02670FD63C510F6172E3DD2EC3DFB0B9>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #02670FD63C510F6172E3DD2EC3DFB0B9" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RBN1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VWV8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q86SY9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7C4L8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0Y932> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L0U8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0Y8T9> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q3U6G0>
+      rdfs:label    "Q3U6G0" .
+
+<http://purl.uniprot.org/uniprot/Q12931>
+      rdfs:label    "Q12931" .
+
+<http://rdf.ebi.ac.uk/demo/sample/FCF60D225A6B665C062FC147B6B20C72>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #FCF60D225A6B665C062FC147B6B20C72" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q544Z6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P30280> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YYP8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SXR2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q61147> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P57746> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SF07> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UNJ0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7ZC85> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CBB9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BKF5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/F7BJB9>
+      rdfs:label    "F7BJB9" .
+
+<http://purl.uniprot.org/uniprot/O15091>
+      rdfs:label    "O15091" .
+
+<http://purl.uniprot.org/uniprot/F8W9J0>
+      rdfs:label    "F8W9J0" .
+
+<http://purl.uniprot.org/uniprot/Q544F3>
+      rdfs:label    "Q544F3" .
+
+<http://purl.uniprot.org/uniprot/P10153>
+      rdfs:label    "P10153" .
+
+<http://purl.uniprot.org/uniprot/Q504U3>
+      rdfs:label    "Q504U3" .
+
+<http://purl.uniprot.org/uniprot/P54823>
+      rdfs:label    "P54823" .
+
+<http://purl.uniprot.org/uniprot/F5GWB1>
+      rdfs:label    "F5GWB1" .
+
+<http://purl.uniprot.org/uniprot/J3KS55>
+      rdfs:label    "J3KS55" .
+
+<http://purl.uniprot.org/uniprot/B1AKM9>
+      rdfs:label    "B1AKM9" .
+
+<http://purl.uniprot.org/uniprot/B8ZZR8>
+      rdfs:label    "B8ZZR8" .
+
+<http://purl.uniprot.org/uniprot/C9JZT2>
+      rdfs:label    "C9JZT2" .
+
+<http://purl.uniprot.org/uniprot/H0Y9U8>
+      rdfs:label    "H0Y9U8" .
+
+<http://purl.uniprot.org/uniprot/C9JG30>
+      rdfs:label    "C9JG30" .
+
+<http://purl.uniprot.org/uniprot/F5H1U6>
+      rdfs:label    "F5H1U6" .
+
+<http://purl.uniprot.org/uniprot/E5RJI7>
+      rdfs:label    "E5RJI7" .
+
+<http://purl.uniprot.org/uniprot/G3V0E5>
+      rdfs:label    "G3V0E5" .
+
+<http://purl.uniprot.org/uniprot/Q9NQH7>
+      rdfs:label    "Q9NQH7" .
+
+<http://purl.uniprot.org/uniprot/Q1HL35>
+      rdfs:label    "Q1HL35" .
+
+<http://purl.uniprot.org/uniprot/H3BKE8>
+      rdfs:label    "H3BKE8" .
+
+<http://purl.uniprot.org/uniprot/E9PV24>
+      rdfs:label    "E9PV24" .
+
+<http://purl.uniprot.org/uniprot/Q8C483>
+      rdfs:label    "Q8C483" .
+
+<http://purl.uniprot.org/uniprot/P53396>
+      rdfs:label    "P53396" .
+
+<http://purl.uniprot.org/uniprot/F5H425>
+      rdfs:label    "F5H425" .
+
+<http://purl.uniprot.org/uniprot/C9J973>
+      rdfs:label    "C9J973" .
+
+<http://purl.uniprot.org/uniprot/P61011>
+      rdfs:label    "P61011" .
+
+<http://purl.uniprot.org/uniprot/A2A7G9>
+      rdfs:label    "A2A7G9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/27915EA8D478AB47294C538CAA201F34>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #27915EA8D478AB47294C538CAA201F34" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UJ37> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O75594> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/Q3ZAX5>
+      rdfs:label    "Q3ZAX5" .
+
+<http://purl.uniprot.org/uniprot/Q6P8N5>
+      rdfs:label    "Q6P8N5" .
+
+<http://purl.uniprot.org/uniprot/E9PHV6>
+      rdfs:label    "E9PHV6" .
+
+<http://purl.uniprot.org/uniprot/B2RW07>
+      rdfs:label    "B2RW07" .
+
+<http://purl.uniprot.org/uniprot/F8WJE0>
+      rdfs:label    "F8WJE0" .
+
+<http://purl.uniprot.org/uniprot/Q9R0E1>
+      rdfs:label    "Q9R0E1" .
+
+<http://purl.uniprot.org/uniprot/Q8BTZ9>
+      rdfs:label    "Q8BTZ9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2816CE27A197BB9FAED17873B9C4B7E5>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2816CE27A197BB9FAED17873B9C4B7E5" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7ZC54> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P30204> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1ARC3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U8Y7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TYS2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UJU9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WHU8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BH48> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O35714> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YXU2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q921I3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CPY9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2Z3Z4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BLD6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UG45> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UPF7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9Q2N7> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://rdf.ebi.ac.uk/demo/sample/1109F8A377944136004C408AB9AF8DF3>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #1109F8A377944136004C408AB9AF8DF3" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q60710> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UDL4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C6N4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99N95> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P30204> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D103> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BHA0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q1HL35> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P61961> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PVQ3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PVP5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BJ55> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z5V3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/C9J6W2>
+      rdfs:label    "C9J6W2" .
+
+<http://purl.uniprot.org/uniprot/P05198>
+      rdfs:label    "P05198" .
+
+<http://purl.uniprot.org/uniprot/E0CZ90>
+      rdfs:label    "E0CZ90" .
+
+<http://purl.uniprot.org/uniprot/D6RBN1>
+      rdfs:label    "D6RBN1" .
+
+<http://purl.uniprot.org/uniprot/D6RB29>
+      rdfs:label    "D6RB29" .
+
+<http://purl.uniprot.org/uniprot/Q5VVQ7>
+      rdfs:label    "Q5VVQ7" .
+
+<http://purl.uniprot.org/uniprot/Q9NVV5>
+      rdfs:label    "Q9NVV5" .
+
+<http://purl.uniprot.org/uniprot/P70284>
+      rdfs:label    "P70284" .
+
+<http://purl.uniprot.org/uniprot/O78207>
+      rdfs:label    "O78207" .
+
+<http://purl.uniprot.org/uniprot/Q7Z7P1>
+      rdfs:label    "Q7Z7P1" .
+
+<http://purl.uniprot.org/uniprot/Q8BH48>
+      rdfs:label    "Q8BH48" .
+
+<http://purl.uniprot.org/uniprot/G3LGR1>
+      rdfs:label    "G3LGR1" .
+
+<http://purl.uniprot.org/uniprot/H0YMI6>
+      rdfs:label    "H0YMI6" .
+
+<http://purl.uniprot.org/uniprot/Q8IZ73>
+      rdfs:label    "Q8IZ73" .
+
+<http://purl.uniprot.org/uniprot/H9KVC3>
+      rdfs:label    "H9KVC3" .
+
+<http://purl.uniprot.org/uniprot/D3Z730>
+      rdfs:label    "D3Z730" .
+
+<http://purl.uniprot.org/uniprot/Q8R582>
+      rdfs:label    "Q8R582" .
+
+<http://purl.uniprot.org/uniprot/F2VNV6>
+      rdfs:label    "F2VNV6" .
+
+<http://rdf.ebi.ac.uk/demo/sample/532B6BB1BDFFFF587173FDE9B7129F08>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #532B6BB1BDFFFF587173FDE9B7129F08" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q547N0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U184> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C2L5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PW35> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BHL7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2RQV1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F7BJB9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99JA5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O35593> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C3V4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AQW3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CZB6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q64310> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UY39> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5GMH1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/L7N1X8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/L7N260> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q62159> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q812G4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F6ZGI7> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/P11586>
+      rdfs:label    "P11586" .
+
+<http://purl.uniprot.org/uniprot/G3V5P8>
+      rdfs:label    "G3V5P8" .
+
+<http://purl.uniprot.org/uniprot/Q14877>
+      rdfs:label    "Q14877" .
+
+<http://purl.uniprot.org/uniprot/I7A4E3>
+      rdfs:label    "I7A4E3" .
+
+<http://purl.uniprot.org/uniprot/P28070>
+      rdfs:label    "P28070" .
+
+<http://purl.uniprot.org/uniprot/Q5QPD2>
+      rdfs:label    "Q5QPD2" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2F2D10EDC301952A669E265A1FAE3FFB>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2F2D10EDC301952A669E265A1FAE3FFB" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5QPE1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RF62> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V3I1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PRY9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YNB7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QL93> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/P07864>
+      rdfs:label    "P07864" .
+
+<http://purl.uniprot.org/uniprot/J3QL93>
+      rdfs:label    "J3QL93" .
+
+<http://purl.uniprot.org/uniprot/G3V3W4>
+      rdfs:label    "G3V3W4" .
+
+<http://purl.uniprot.org/uniprot/P35232>
+      rdfs:label    "P35232" .
+
+<http://purl.uniprot.org/uniprot/A2APM3>
+      rdfs:label    "A2APM3" .
+
+<http://purl.uniprot.org/uniprot/A2AIW0>
+      rdfs:label    "A2AIW0" .
+
+<http://purl.uniprot.org/uniprot/Q5SZL8>
+      rdfs:label    "Q5SZL8" .
+
+<http://purl.uniprot.org/uniprot/E9PRY9>
+      rdfs:label    "E9PRY9" .
+
+<http://purl.uniprot.org/uniprot/Q9NXR5>
+      rdfs:label    "Q9NXR5" .
+
+<http://purl.uniprot.org/uniprot/Q2VYF1>
+      rdfs:label    "Q2VYF1" .
+
+<http://purl.uniprot.org/uniprot/E5RJM9>
+      rdfs:label    "E5RJM9" .
+
+<http://purl.uniprot.org/uniprot/Q1MX43>
+      rdfs:label    "Q1MX43" .
+
+<http://purl.uniprot.org/uniprot/H0YMA4>
+      rdfs:label    "H0YMA4" .
+
+<http://purl.uniprot.org/uniprot/H0YMG0>
+      rdfs:label    "H0YMG0" .
+
+<http://purl.uniprot.org/uniprot/Q5ND42>
+      rdfs:label    "Q5ND42" .
+
+<http://purl.uniprot.org/uniprot/I3L0U8>
+      rdfs:label    "I3L0U8" .
+
+<http://purl.uniprot.org/uniprot/P30048>
+      rdfs:label    "P30048" .
+
+<http://purl.uniprot.org/uniprot/E5RFM6>
+      rdfs:label    "E5RFM6" .
+
+<http://purl.uniprot.org/uniprot/A2AWF8>
+      rdfs:label    "A2AWF8" .
+
+<http://purl.uniprot.org/uniprot/P31350>
+      rdfs:label    "P31350" .
+
+<http://purl.uniprot.org/uniprot/Q3U2L4>
+      rdfs:label    "Q3U2L4" .
+
+<http://purl.uniprot.org/uniprot/Q32M02>
+      rdfs:label    "Q32M02" .
+
+<http://purl.uniprot.org/uniprot/Q8IVW1>
+      rdfs:label    "Q8IVW1" .
+
+<http://purl.uniprot.org/uniprot/A6NCQ0>
+      rdfs:label    "A6NCQ0" .
+
+<http://purl.uniprot.org/uniprot/E9PBX6>
+      rdfs:label    "E9PBX6" .
+
+<http://purl.uniprot.org/uniprot/Q5SWX3>
+      rdfs:label    "Q5SWX3" .
+
+<http://rdf.ebi.ac.uk/demo/sample/0CF40CCEF287568848BF1326F056649B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #0CF40CCEF287568848BF1326F056649B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7Z2R9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QTA2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QX64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RB98> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/E9PFC7>
+      rdfs:label    "E9PFC7" .
+
+<http://purl.uniprot.org/uniprot/B2WTN6>
+      rdfs:label    "B2WTN6" .
+
+<http://purl.uniprot.org/uniprot/A2AWF9>
+      rdfs:label    "A2AWF9" .
+
+<http://purl.uniprot.org/uniprot/H0Y3H0>
+      rdfs:label    "H0Y3H0" .
+
+<http://purl.uniprot.org/uniprot/Q9NP58>
+      rdfs:label    "Q9NP58" .
+
+<http://purl.uniprot.org/uniprot/Q9Y6N5>
+      rdfs:label    "Q9Y6N5" .
+
+<http://purl.uniprot.org/uniprot/J3KSV2>
+      rdfs:label    "J3KSV2" .
+
+<http://purl.uniprot.org/uniprot/H0YM70>
+      rdfs:label    "H0YM70" .
+
+<http://rdf.ebi.ac.uk/demo/sample/44E9E124E11715BF74179B65F809B77D>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #44E9E124E11715BF74179B65F809B77D" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DQD9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P05198> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P13473> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BTT0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QLW6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P31350> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7Z543> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9P2R7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P49721> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DUS5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QQV5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/F8W950>
+      rdfs:label    "F8W950" .
+
+<http://purl.uniprot.org/uniprot/Q3TRK1>
+      rdfs:label    "Q3TRK1" .
+
+<http://rdf.ebi.ac.uk/demo/sample/500AAB6AB0F039C0D6B6151E4B58EA60>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #500AAB6AB0F039C0D6B6151E4B58EA60" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q497K3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P34884> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P04202> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9EQH2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O08691> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99L85> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8K1K2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2AWF9> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q8CBB9>
+      rdfs:label    "Q8CBB9" .
+
+<http://purl.uniprot.org/uniprot/Q9ES61>
+      rdfs:label    "Q9ES61" .
+
+<http://purl.uniprot.org/uniprot/E5RFM4>
+      rdfs:label    "E5RFM4" .
+
+<http://purl.uniprot.org/uniprot/F5GYQ3>
+      rdfs:label    "F5GYQ3" .
+
+<http://purl.uniprot.org/uniprot/B3KXE0>
+      rdfs:label    "B3KXE0" .
+
+<http://purl.uniprot.org/uniprot/Q7TN01>
+      rdfs:label    "Q7TN01" .
+
+<http://purl.uniprot.org/uniprot/A2AI17>
+      rdfs:label    "A2AI17" .
+
+<http://purl.uniprot.org/uniprot/Q96AT9>
+      rdfs:label    "Q96AT9" .
+
+<http://purl.uniprot.org/uniprot/C9J578>
+      rdfs:label    "C9J578" .
+
+<http://purl.uniprot.org/uniprot/E9Q0K6>
+      rdfs:label    "E9Q0K6" .
+
+<http://purl.uniprot.org/uniprot/F5H682>
+      rdfs:label    "F5H682" .
+
+<http://purl.uniprot.org/uniprot/Q9QZ85>
+      rdfs:label    "Q9QZ85" .
+
+<http://purl.uniprot.org/uniprot/B4DQD9>
+      rdfs:label    "B4DQD9" .
+
+<http://purl.uniprot.org/uniprot/E7ERI8>
+      rdfs:label    "E7ERI8" .
+
+<http://purl.uniprot.org/uniprot/Q7YPG8>
+      rdfs:label    "Q7YPG8" .
+
+<http://purl.uniprot.org/uniprot/B2RQV1>
+      rdfs:label    "B2RQV1" .
+
+<http://purl.uniprot.org/uniprot/E9PL10>
+      rdfs:label    "E9PL10" .
+
+<http://rdf.ebi.ac.uk/demo/sample/EBDBB40D47AFEC4F4FFF067B1B83AA56>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #EBDBB40D47AFEC4F4FFF067B1B83AA56" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8R1Z9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2RW07> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9D0I9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QM80> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BNE5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6P6I8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91YD3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YW23> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O89098> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q1MX43> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P11672> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/J3QKX7>
+      rdfs:label    "J3QKX7" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E8FBD138C9377A829B95ACC9E8A19806>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E8FBD138C9377A829B95ACC9E8A19806" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7ZLI7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DUX4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JUW4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PPA5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NR34> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O00534> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J2N3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NRP4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H2D0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JL41> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O15205> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B5MCP4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WAH1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DWC4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O75717> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IVW1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q0G847> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8TCG1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PJV6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q86SY9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BSK2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DZ31> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NP58> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BSB8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99988> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BTI9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KSM3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5VU63> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PN39> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J5D8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A6ND99> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BLY8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5JYD4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8YCP3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5VVQ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5GXL3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8NCT1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O96028> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5JY88> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B3KNK9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NWW0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4E076> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BTN5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PL10> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4E208> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6TV15> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P07864> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5U026> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D9IX68> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JEN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H5X6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4E3L3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1AKM9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5JSK9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WAX7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P24844> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/C9JGY5>
+      rdfs:label    "C9JGY5" .
+
+<http://purl.uniprot.org/uniprot/D9IX68>
+      rdfs:label    "D9IX68" .
+
+<http://purl.uniprot.org/uniprot/J3QSE8>
+      rdfs:label    "J3QSE8" .
+
+<http://purl.uniprot.org/uniprot/E5KS60>
+      rdfs:label    "E5KS60" .
+
+<http://purl.uniprot.org/uniprot/Q9D752>
+      rdfs:label    "Q9D752" .
+
+<http://purl.uniprot.org/uniprot/A2AIW4>
+      rdfs:label    "A2AIW4" .
+
+<http://purl.uniprot.org/uniprot/Q9GZS3>
+      rdfs:label    "Q9GZS3" .
+
+<http://purl.uniprot.org/uniprot/C9JRB3>
+      rdfs:label    "C9JRB3" .
+
+<http://purl.uniprot.org/uniprot/Q924S2>
+      rdfs:label    "Q924S2" .
+
+<http://rdf.ebi.ac.uk/demo/sample/650BC5B7FADB3C1FDD11A188B9610605>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #650BC5B7FADB3C1FDD11A188B9610605" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PZF0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q80WT5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9WU67> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8WUR0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KMU9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9WVQ5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B2RRH9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C6Q7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3YXY5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O70252> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q9Y2R9>
+      rdfs:label    "Q9Y2R9" .
+
+<http://purl.uniprot.org/uniprot/Q14BA6>
+      rdfs:label    "Q14BA6" .
+
+<http://purl.uniprot.org/uniprot/Q6QX36>
+      rdfs:label    "Q6QX36" .
+
+<http://purl.uniprot.org/uniprot/F5H2F4>
+      rdfs:label    "F5H2F4" .
+
+<http://purl.uniprot.org/uniprot/Q8BHL7>
+      rdfs:label    "Q8BHL7" .
+
+<http://purl.uniprot.org/uniprot/Q9D2P4>
+      rdfs:label    "Q9D2P4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/392613023DBF1653BC0708E67AAAC235>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #392613023DBF1653BC0708E67AAAC235" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6LC83> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V504> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G5E9C0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99933> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PSE3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P12036> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UM00> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1AKV4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KN19> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W924> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P18405> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P30048> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://rdf.ebi.ac.uk/demo/sample/F1B091F4286C03DEE93ED0AFBEF61BCE>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #F1B091F4286C03DEE93ED0AFBEF61BCE" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9ERG0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F6WL90> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q91YI6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8C483> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5ND42> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q569U6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TDZ5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8BTZ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UJA1> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/J3KT25>
+      rdfs:label    "J3KT25" .
+
+<http://purl.uniprot.org/uniprot/B2KG65>
+      rdfs:label    "B2KG65" .
+
+<http://purl.uniprot.org/uniprot/L7N260>
+      rdfs:label    "L7N260" .
+
+<http://purl.uniprot.org/uniprot/Q9NXQ9>
+      rdfs:label    "Q9NXQ9" .
+
+<http://purl.uniprot.org/uniprot/Q9NRP4>
+      rdfs:label    "Q9NRP4" .
+
+<http://purl.uniprot.org/uniprot/F6WL90>
+      rdfs:label    "F6WL90" .
+
+<http://purl.uniprot.org/uniprot/Q812G4>
+      rdfs:label    "Q812G4" .
+
+<http://purl.uniprot.org/uniprot/F2Z3Z4>
+      rdfs:label    "F2Z3Z4" .
+
+<http://purl.uniprot.org/uniprot/Q6FIF0>
+      rdfs:label    "Q6FIF0" .
+
+<http://purl.uniprot.org/uniprot/M0R1X3>
+      rdfs:label    "M0R1X3" .
+
+<http://purl.uniprot.org/uniprot/P35250>
+      rdfs:label    "P35250" .
+
+<http://purl.uniprot.org/uniprot/Q547N0>
+      rdfs:label    "Q547N0" .
+
+<http://purl.uniprot.org/uniprot/Q571E4>
+      rdfs:label    "Q571E4" .
+
+<http://purl.uniprot.org/uniprot/D6RCL0>
+      rdfs:label    "D6RCL0" .
+
+<http://purl.uniprot.org/uniprot/Q3U2C5>
+      rdfs:label    "Q3U2C5" .
+
+<http://purl.uniprot.org/uniprot/Q86SY9>
+      rdfs:label    "Q86SY9" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E7D4EB1CA5010F8597BFB02138109DF8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E7D4EB1CA5010F8597BFB02138109DF8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O60512> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DX68> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YLS6> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://rdf.ebi.ac.uk/demo/sample/B9FB8ADD9F10D31DA22E2B1293DBC69B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #B9FB8ADD9F10D31DA22E2B1293DBC69B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3Z0J6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3UXY6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P14211> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9R0E1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U9V5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UKR0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9QZ85> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TZN4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/K7EPS0>
+      rdfs:label    "K7EPS0" .
+
+<http://purl.uniprot.org/uniprot/B7ZC85>
+      rdfs:label    "B7ZC85" .
+
+<http://purl.uniprot.org/uniprot/I3L1Z7>
+      rdfs:label    "I3L1Z7" .
+
+<http://purl.uniprot.org/uniprot/P58242>
+      rdfs:label    "P58242" .
+
+<http://purl.uniprot.org/uniprot/Q9D8T2>
+      rdfs:label    "Q9D8T2" .
+
+<http://purl.uniprot.org/uniprot/F8W914>
+      rdfs:label    "F8W914" .
+
+<http://purl.uniprot.org/uniprot/Q9CPW3>
+      rdfs:label    "Q9CPW3" .
+
+<http://purl.uniprot.org/uniprot/Q99988>
+      rdfs:label    "Q99988" .
+
+<http://purl.uniprot.org/uniprot/G3V1T4>
+      rdfs:label    "G3V1T4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/D21CE9BC54B4651B69764B7EED22955C>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #D21CE9BC54B4651B69764B7EED22955C" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3UZH2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9CPW3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A2APM3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WJE0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P56477> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8JZV7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3UZ59> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8CGT6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TZN4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P58681> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/O60547>
+      rdfs:label    "O60547" .
+
+<http://purl.uniprot.org/uniprot/D6RB98>
+      rdfs:label    "D6RB98" .
+
+<http://purl.uniprot.org/uniprot/P06396>
+      rdfs:label    "P06396" .
+
+<http://rdf.ebi.ac.uk/demo/sample/3FBB30CCD9C7BC34B9A8D0F8634F67D2>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #3FBB30CCD9C7BC34B9A8D0F8634F67D2" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ERR5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DDW7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3YB50> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EPS0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P13196> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NQH7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PG39> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/G5E8X4>
+      rdfs:label    "G5E8X4" .
+
+<http://purl.uniprot.org/uniprot/Q75N73>
+      rdfs:label    "Q75N73" .
+
+<http://purl.uniprot.org/uniprot/E9PNR6>
+      rdfs:label    "E9PNR6" .
+
+<http://purl.uniprot.org/uniprot/D6RB73>
+      rdfs:label    "D6RB73" .
+
+<http://purl.uniprot.org/uniprot/Q5JY88>
+      rdfs:label    "Q5JY88" .
+
+<http://purl.uniprot.org/uniprot/P50580>
+      rdfs:label    "P50580" .
+
+<http://purl.uniprot.org/uniprot/Q9HCM1>
+      rdfs:label    "Q9HCM1" .
+
+<http://purl.uniprot.org/uniprot/I3ZNL2>
+      rdfs:label    "I3ZNL2" .
+
+<http://purl.uniprot.org/uniprot/E9PBL0>
+      rdfs:label    "E9PBL0" .
+
+<http://purl.uniprot.org/uniprot/A3E0Z7>
+      rdfs:label    "A3E0Z7" .
+
+<http://purl.uniprot.org/uniprot/D6RFK9>
+      rdfs:label    "D6RFK9" .
+
+<http://purl.uniprot.org/uniprot/Q8N6S3>
+      rdfs:label    "Q8N6S3" .
+
+<http://purl.uniprot.org/uniprot/Q8N1Q1>
+      rdfs:label    "Q8N1Q1" .
+
+<http://purl.uniprot.org/uniprot/C9JKE4>
+      rdfs:label    "C9JKE4" .
+
+<http://purl.uniprot.org/uniprot/Q3U605>
+      rdfs:label    "Q3U605" .
+
+<http://purl.uniprot.org/uniprot/E9Q2L7>
+      rdfs:label    "E9Q2L7" .
+
+<http://purl.uniprot.org/uniprot/F8VZX2>
+      rdfs:label    "F8VZX2" .
+
+<http://purl.uniprot.org/uniprot/G3V4M4>
+      rdfs:label    "G3V4M4" .
+
+<http://purl.uniprot.org/uniprot/E5RH00>
+      rdfs:label    "E5RH00" .
+
+<http://rdf.ebi.ac.uk/demo/sample/F99E783EC3BB2050B23734363EE9F4C8>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #F99E783EC3BB2050B23734363EE9F4C8" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4U3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B0QY21> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UBV8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B5MDP1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q659C5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JMM4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QL93> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8ZZ85> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/F8W9A8>
+      rdfs:label    "F8W9A8" .
+
+<http://purl.uniprot.org/uniprot/E3W978>
+      rdfs:label    "E3W978" .
+
+<http://rdf.ebi.ac.uk/demo/sample/C209FBB501A04C2EBC0BA1BD1F01A362>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #C209FBB501A04C2EBC0BA1BD1F01A362" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PHV6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P61011> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J578> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q86X79> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H0Y9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5T765> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H488> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9HC12> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q80WT5>
+      rdfs:label    "Q80WT5" .
+
+<http://purl.uniprot.org/uniprot/P61961>
+      rdfs:label    "P61961" .
+
+<http://purl.uniprot.org/uniprot/F5H648>
+      rdfs:label    "F5H648" .
+
+<http://purl.uniprot.org/uniprot/E5RJX7>
+      rdfs:label    "E5RJX7" .
+
+<http://purl.uniprot.org/uniprot/Q96HE7>
+      rdfs:label    "Q96HE7" .
+
+<http://purl.uniprot.org/uniprot/Q5NC81>
+      rdfs:label    "Q5NC81" .
+
+<http://purl.uniprot.org/uniprot/B4E159>
+      rdfs:label    "B4E159" .
+
+<http://purl.uniprot.org/uniprot/Q9Y2R5>
+      rdfs:label    "Q9Y2R5" .
+
+<http://purl.uniprot.org/uniprot/D3YZP0>
+      rdfs:label    "D3YZP0" .
+
+<http://purl.uniprot.org/uniprot/Q8IVU3>
+      rdfs:label    "Q8IVU3" .
+
+<http://purl.uniprot.org/uniprot/F8WE30>
+      rdfs:label    "F8WE30" .
+
+<http://purl.uniprot.org/uniprot/Q3UJU9>
+      rdfs:label    "Q3UJU9" .
+
+<http://purl.uniprot.org/uniprot/F5H2D0>
+      rdfs:label    "F5H2D0" .
+
+<http://purl.uniprot.org/uniprot/G5E9C0>
+      rdfs:label    "G5E9C0" .
+
+<http://purl.uniprot.org/uniprot/F8VWV8>
+      rdfs:label    "F8VWV8" .
+
+<http://purl.uniprot.org/uniprot/E9PVQ3>
+      rdfs:label    "E9PVQ3" .
+
+<http://purl.uniprot.org/uniprot/E9PP24>
+      rdfs:label    "E9PP24" .
+
+<http://purl.uniprot.org/uniprot/J3KT29>
+      rdfs:label    "J3KT29" .
+
+<http://purl.uniprot.org/uniprot/E9PZF0>
+      rdfs:label    "E9PZF0" .
+
+<http://purl.uniprot.org/uniprot/O60502>
+      rdfs:label    "O60502" .
+
+<http://purl.uniprot.org/uniprot/F8VV39>
+      rdfs:label    "F8VV39" .
+
+<http://purl.uniprot.org/uniprot/Q8BNE5>
+      rdfs:label    "Q8BNE5" .
+
+<http://purl.uniprot.org/uniprot/Q8TCG1>
+      rdfs:label    "Q8TCG1" .
+
+<http://purl.uniprot.org/uniprot/E9PD78>
+      rdfs:label    "E9PD78" .
+
+<http://rdf.ebi.ac.uk/demo/sample/02B73C3D739D4F00CAFC62E832912C99>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #02B73C3D739D4F00CAFC62E832912C99" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WDZ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YJL7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P29083> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F2Z361> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3XAC3> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/G3X9Z3>
+      rdfs:label    "G3X9Z3" .
+
+<http://purl.uniprot.org/uniprot/Q8R2Q8>
+      rdfs:label    "Q8R2Q8" .
+
+<http://purl.uniprot.org/uniprot/Q8C9B8>
+      rdfs:label    "Q8C9B8" .
+
+<http://purl.uniprot.org/uniprot/Q8K335>
+      rdfs:label    "Q8K335" .
+
+<http://purl.uniprot.org/uniprot/Q6LDK7>
+      rdfs:label    "Q6LDK7" .
+
+<http://purl.uniprot.org/uniprot/E9QKL6>
+      rdfs:label    "E9QKL6" .
+
+<http://purl.uniprot.org/uniprot/J3KS82>
+      rdfs:label    "J3KS82" .
+
+<http://purl.uniprot.org/uniprot/E9Q0X0>
+      rdfs:label    "E9Q0X0" .
+
+<http://purl.uniprot.org/uniprot/H0YKQ5>
+      rdfs:label    "H0YKQ5" .
+
+<http://purl.uniprot.org/uniprot/G3X949>
+      rdfs:label    "G3X949" .
+
+<http://purl.uniprot.org/uniprot/D3Z0J6>
+      rdfs:label    "D3Z0J6" .
+
+<http://purl.uniprot.org/uniprot/D6RBW0>
+      rdfs:label    "D6RBW0" .
+
+<http://purl.uniprot.org/uniprot/Q5SXR2>
+      rdfs:label    "Q5SXR2" .
+
+<http://purl.uniprot.org/uniprot/A5YRV3>
+      rdfs:label    "A5YRV3" .
+
+<http://purl.uniprot.org/uniprot/Q8CJA5>
+      rdfs:label    "Q8CJA5" .
+
+<http://purl.uniprot.org/uniprot/Q9UM00>
+      rdfs:label    "Q9UM00" .
+
+<http://purl.uniprot.org/uniprot/B8JJN0>
+      rdfs:label    "B8JJN0" .
+
+<http://purl.uniprot.org/uniprot/C9JE06>
+      rdfs:label    "C9JE06" .
+
+<http://purl.uniprot.org/uniprot/E7EM70>
+      rdfs:label    "E7EM70" .
+
+<http://purl.uniprot.org/uniprot/H3BLY8>
+      rdfs:label    "H3BLY8" .
+
+<http://purl.uniprot.org/uniprot/Q6ZWX6>
+      rdfs:label    "Q6ZWX6" .
+
+<http://purl.uniprot.org/uniprot/Q5JYD4>
+      rdfs:label    "Q5JYD4" .
+
+<http://purl.uniprot.org/uniprot/Q6GQV1>
+      rdfs:label    "Q6GQV1" .
+
+<http://purl.uniprot.org/uniprot/D6RD83>
+      rdfs:label    "D6RD83" .
+
+<http://purl.uniprot.org/uniprot/O35593>
+      rdfs:label    "O35593" .
+
+<http://purl.uniprot.org/uniprot/P53347>
+      rdfs:label    "P53347" .
+
+<http://purl.uniprot.org/uniprot/H7C4L8>
+      rdfs:label    "H7C4L8" .
+
+<http://purl.uniprot.org/uniprot/H0Y932>
+      rdfs:label    "H0Y932" .
+
+<http://purl.uniprot.org/uniprot/D6RIM0>
+      rdfs:label    "D6RIM0" .
+
+<http://purl.uniprot.org/uniprot/Q8BTZ7>
+      rdfs:label    "Q8BTZ7" .
+
+<http://purl.uniprot.org/uniprot/D3Z437>
+      rdfs:label    "D3Z437" .
+
+<http://purl.uniprot.org/uniprot/Q9BTT0>
+      rdfs:label    "Q9BTT0" .
+
+<http://purl.uniprot.org/uniprot/Q96CP7>
+      rdfs:label    "Q96CP7" .
+
+<http://purl.uniprot.org/uniprot/J3KMU9>
+      rdfs:label    "J3KMU9" .
+
+<http://purl.uniprot.org/uniprot/Q3U0S8>
+      rdfs:label    "Q3U0S8" .
+
+<http://purl.uniprot.org/uniprot/Q13200>
+      rdfs:label    "Q13200" .
+
+<http://purl.uniprot.org/uniprot/D6RDH5>
+      rdfs:label    "D6RDH5" .
+
+<http://purl.uniprot.org/uniprot/P56211>
+      rdfs:label    "P56211" .
+
+<http://purl.uniprot.org/uniprot/Q8C6Q7>
+      rdfs:label    "Q8C6Q7" .
+
+<http://rdf.ebi.ac.uk/demo/sample/2238700BCEBF3A2AE182A122D15F29B2>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #2238700BCEBF3A2AE182A122D15F29B2" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O60502> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7BXP4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P58340> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P53396> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q16083>
+      rdfs:label    "Q16083" .
+
+<http://purl.uniprot.org/uniprot/Q5T765>
+      rdfs:label    "Q5T765" .
+
+<http://purl.uniprot.org/uniprot/F5H4W5>
+      rdfs:label    "F5H4W5" .
+
+<http://purl.uniprot.org/uniprot/Q05BH6>
+      rdfs:label    "Q05BH6" .
+
+<http://purl.uniprot.org/uniprot/O95992>
+      rdfs:label    "O95992" .
+
+<http://purl.uniprot.org/uniprot/A5YRV0>
+      rdfs:label    "A5YRV0" .
+
+<http://purl.uniprot.org/uniprot/G3UXY6>
+      rdfs:label    "G3UXY6" .
+
+<http://purl.uniprot.org/uniprot/P21283>
+      rdfs:label    "P21283" .
+
+<http://purl.uniprot.org/uniprot/E9PWL0>
+      rdfs:label    "E9PWL0" .
+
+<http://purl.uniprot.org/uniprot/H0YA62>
+      rdfs:label    "H0YA62" .
+
+<http://purl.uniprot.org/uniprot/H0YNU4>
+      rdfs:label    "H0YNU4" .
+
+<http://purl.uniprot.org/uniprot/P13196>
+      rdfs:label    "P13196" .
+
+<http://purl.uniprot.org/uniprot/P17710>
+      rdfs:label    "P17710" .
+
+<http://purl.uniprot.org/uniprot/B1AVQ5>
+      rdfs:label    "B1AVQ5" .
+
+<http://rdf.ebi.ac.uk/demo/sample/74F2B31DA328AA8E320AD8BE2285EC5B>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #74F2B31DA328AA8E320AD8BE2285EC5B" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V5R1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A8K031> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H648> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B9A067> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B3KQ95> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4P4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/Q9NTJ3>
+      rdfs:label    "Q9NTJ3" .
+
+<http://purl.uniprot.org/uniprot/B4DUX4>
+      rdfs:label    "B4DUX4" .
+
+<http://purl.uniprot.org/uniprot/D6RET0>
+      rdfs:label    "D6RET0" .
+
+<http://purl.uniprot.org/uniprot/Q8C0V1>
+      rdfs:label    "Q8C0V1" .
+
+<http://rdf.ebi.ac.uk/demo/sample/5BCB834159391E2BA66E26BD8C28B739>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #5BCB834159391E2BA66E26BD8C28B739" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q14579> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8WYK3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YMA4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8ZZ51> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YNB7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A6NIR2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BRJ7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B1AVQ5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96KP4> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/E9QAJ6>
+      rdfs:label    "E9QAJ6" .
+
+<http://purl.uniprot.org/uniprot/Q3U1H4>
+      rdfs:label    "Q3U1H4" .
+
+<http://purl.uniprot.org/uniprot/C9J0S5>
+      rdfs:label    "C9J0S5" .
+
+<http://purl.uniprot.org/uniprot/A2AHJ2>
+      rdfs:label    "A2AHJ2" .
+
+<http://purl.uniprot.org/uniprot/Q91VI7>
+      rdfs:label    "Q91VI7" .
+
+<http://purl.uniprot.org/uniprot/H0YLD2>
+      rdfs:label    "H0YLD2" .
+
+<http://purl.uniprot.org/uniprot/F8VQS7>
+      rdfs:label    "F8VQS7" .
+
+<http://purl.uniprot.org/uniprot/E9PSE3>
+      rdfs:label    "E9PSE3" .
+
+<http://purl.uniprot.org/uniprot/C9JL41>
+      rdfs:label    "C9JL41" .
+
+<http://purl.uniprot.org/uniprot/B4DNE2>
+      rdfs:label    "B4DNE2" .
+
+<http://purl.uniprot.org/uniprot/O15205>
+      rdfs:label    "O15205" .
+
+<http://purl.uniprot.org/uniprot/H3BLD6>
+      rdfs:label    "H3BLD6" .
+
+<http://purl.uniprot.org/uniprot/Q3U0U2>
+      rdfs:label    "Q3U0U2" .
+
+<http://purl.uniprot.org/uniprot/Q9MY32>
+      rdfs:label    "Q9MY32" .
+
+<http://purl.uniprot.org/uniprot/K7EKE5>
+      rdfs:label    "K7EKE5" .
+
+<http://purl.uniprot.org/uniprot/D3Z3N1>
+      rdfs:label    "D3Z3N1" .
+
+<http://purl.uniprot.org/uniprot/Q71UD5>
+      rdfs:label    "Q71UD5" .
+
+<http://rdf.ebi.ac.uk/demo/sample/E6C200A1C96141C16B4E0BCEFAADC8E6>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #E6C200A1C96141C16B4E0BCEFAADC8E6" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JW37> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3DUG9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IUX1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P51991> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DQR4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9NVI1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P42224> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V494> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/H3BV93>
+      rdfs:label    "H3BV93" .
+
+<http://purl.uniprot.org/uniprot/C9JCB7>
+      rdfs:label    "C9JCB7" .
+
+<http://purl.uniprot.org/uniprot/Q8WMA1>
+      rdfs:label    "Q8WMA1" .
+
+<http://purl.uniprot.org/uniprot/F8W0W9>
+      rdfs:label    "F8W0W9" .
+
+<http://purl.uniprot.org/uniprot/F8WE33>
+      rdfs:label    "F8WE33" .
+
+<http://purl.uniprot.org/uniprot/C9JMM4>
+      rdfs:label    "C9JMM4" .
+
+<http://purl.uniprot.org/uniprot/K7ENV1>
+      rdfs:label    "K7ENV1" .
+
+<http://purl.uniprot.org/uniprot/Q9WU67>
+      rdfs:label    "Q9WU67" .
+
+<http://purl.uniprot.org/uniprot/E9PD53>
+      rdfs:label    "E9PD53" .
+
+<http://purl.uniprot.org/uniprot/J3KRW6>
+      rdfs:label    "J3KRW6" .
+
+<http://purl.uniprot.org/uniprot/Q53Y97>
+      rdfs:label    "Q53Y97" .
+
+<http://purl.uniprot.org/uniprot/Q569U6>
+      rdfs:label    "Q569U6" .
+
+<http://rdf.ebi.ac.uk/demo/sample/903E6D242093652274F2063DD2312D87>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #903E6D242093652274F2063DD2312D87" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BSH7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96HE7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P78406> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DN22> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QY85> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4E159> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RG07> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VQS7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WC64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7C2W7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9KXT8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J973> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A6NCQ0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JL94> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RJ08> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A8MU28> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O96017> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UBI1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VRE8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DWD3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E5RH23> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J6W2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q59GN9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I6TMT6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H7K7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RC07> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6PD62> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RHG5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A6PVS0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6REK8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UNH5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96CP7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JB40> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3LGR1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y5Q9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YMI6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EP68> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9HBM1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ES73> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P11586> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B8ZZ09> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9C004> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PPG9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JRZ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P07864> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4M4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q504U3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G0ZMM8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BUQ2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0R2D3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q5SZL8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/Q60710>
+      rdfs:label    "Q60710" .
+
+<http://purl.uniprot.org/uniprot/Q59GN9>
+      rdfs:label    "Q59GN9" .
+
+<http://purl.uniprot.org/uniprot/Q9JKV8>
+      rdfs:label    "Q9JKV8" .
+
+<http://purl.uniprot.org/uniprot/Q9CZD3>
+      rdfs:label    "Q9CZD3" .
+
+<http://purl.uniprot.org/uniprot/Q9EQH2>
+      rdfs:label    "Q9EQH2" .
+
+<http://purl.uniprot.org/uniprot/P01111>
+      rdfs:label    "P01111" .
+
+<http://purl.uniprot.org/uniprot/E9PQA3>
+      rdfs:label    "E9PQA3" .
+
+<http://purl.uniprot.org/uniprot/Q5SF07>
+      rdfs:label    "Q5SF07" .
+
+<http://purl.uniprot.org/uniprot/F5GXL3>
+      rdfs:label    "F5GXL3" .
+
+<http://purl.uniprot.org/uniprot/O78136>
+      rdfs:label    "O78136" .
+
+<http://purl.uniprot.org/uniprot/Q9UKT4>
+      rdfs:label    "Q9UKT4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/61DE1BF2822385502A81919F670D20BD>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #61DE1BF2822385502A81919F670D20BD" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J0S5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000694> .
+
+<http://purl.uniprot.org/uniprot/D3Z2K9>
+      rdfs:label    "D3Z2K9" .
+
+<http://purl.uniprot.org/uniprot/E0CX64>
+      rdfs:label    "E0CX64" .
+
+<http://purl.uniprot.org/uniprot/Q5VZK9>
+      rdfs:label    "Q5VZK9" .
+
+<http://purl.uniprot.org/uniprot/P49721>
+      rdfs:label    "P49721" .
+
+<http://purl.uniprot.org/uniprot/B3KQ95>
+      rdfs:label    "B3KQ95" .
+
+<http://rdf.ebi.ac.uk/demo/sample/BF6B2BA6087521743E7C26C0AAEF92B6>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #BF6B2BA6087521743E7C26C0AAEF92B6" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P09912> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q14877> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O14626> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RCL0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O14530> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/P18621>
+      rdfs:label    "P18621" .
+
+<http://purl.uniprot.org/uniprot/E9Q2N7>
+      rdfs:label    "E9Q2N7" .
+
+<http://purl.uniprot.org/uniprot/Q9ES90>
+      rdfs:label    "Q9ES90" .
+
+<http://purl.uniprot.org/uniprot/Q3U8S1>
+      rdfs:label    "Q3U8S1" .
+
+<http://purl.uniprot.org/uniprot/Q91X72>
+      rdfs:label    "Q91X72" .
+
+<http://purl.uniprot.org/uniprot/G3V504>
+      rdfs:label    "G3V504" .
+
+<http://purl.uniprot.org/uniprot/H0Y881>
+      rdfs:label    "H0Y881" .
+
+<http://rdf.ebi.ac.uk/demo/sample/D6114DFD4F0D389440B046D64D1EFF1E>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #D6114DFD4F0D389440B046D64D1EFF1E" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D3DNS0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PD53> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A5YRV3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JE06> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9HC12> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/H1UBN2>
+      rdfs:label    "H1UBN2" .
+
+<http://rdf.ebi.ac.uk/demo/sample/801B8C520F12C5DAB3055DF83607BC03>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #801B8C520F12C5DAB3055DF83607BC03" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RC01> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9Y2R9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W0F6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VTT7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JPM4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H6E4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H0C8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6ZVF9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KR82> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/M0QXK2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/A1E282> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O78136> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O94777> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9BU64> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DFM7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5GYQ3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H1V0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KN59> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q32Q14> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3ZNL2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O60344> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KRG8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PP24> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WAR2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P07900> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YF42> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96TA1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P18621> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H4W5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KQT6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VV39> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V3Y3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7Z3R6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H8V3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W9J0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3QKX7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H3BMR3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V565> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0Y3H0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/G3V4J1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8WE33> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VSH0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q71F23> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W914> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KRW6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P23526> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q14103> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q2VYF1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H7C443> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/A2VCP1>
+      rdfs:label    "A2VCP1" .
+
+<http://purl.uniprot.org/uniprot/P23258>
+      rdfs:label    "P23258" .
+
+<http://purl.uniprot.org/uniprot/F2Z316>
+      rdfs:label    "F2Z316" .
+
+<http://rdf.ebi.ac.uk/demo/sample/4A433B3D4B9492B119BAC15906B5C1DE>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #4A433B3D4B9492B119BAC15906B5C1DE" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U2L4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7YPG8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U6G0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U2C5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P53347> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P70284> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q545R3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q03734> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7TN01> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q544T4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3U1J7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q564E2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3TVC5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O55135> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q3UPF5> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0001669> .
+
+<http://purl.uniprot.org/uniprot/Q71F23>
+      rdfs:label    "Q71F23" .
+
+<http://rdf.ebi.ac.uk/demo/sample/765A98D571690D631128EF11944AD33D>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #765A98D571690D631128EF11944AD33D" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P42785> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H2B7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IXQ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KMX9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B4DIZ6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RB73> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q6UX73> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JJ35> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q7Z7P1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J710> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q12769> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O43182> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q8IYH0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P52565> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RFK9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q53RU4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P56211> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5H682> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KT29> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9UMW8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q71UD5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7ETN6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I6TF01> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q12931> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H8M5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VRG3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E7EMT6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/K7EP90> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9J5S9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W0W9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PCS3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P07686> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KTL4> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F5GWB1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/P21283> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KSM3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/J3KSV2> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W950> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8W9A8> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q99801> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9GZS3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/C9JRB3> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F6S093> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0002612> .
+
+<http://purl.uniprot.org/uniprot/Q61462>
+      rdfs:label    "Q61462" .
+
+<http://purl.uniprot.org/uniprot/Q3U9E2>
+      rdfs:label    "Q3U9E2" .
+
+<http://purl.uniprot.org/uniprot/P42785>
+      rdfs:label    "P42785" .
+
+<http://purl.uniprot.org/uniprot/Q9D0I9>
+      rdfs:label    "Q9D0I9" .
+
+<http://purl.uniprot.org/uniprot/J3QPY0>
+      rdfs:label    "J3QPY0" .
+
+<http://purl.uniprot.org/uniprot/D6RG37>
+      rdfs:label    "D6RG37" .
+
+<http://purl.uniprot.org/uniprot/C9JXZ7>
+      rdfs:label    "C9JXZ7" .
+
+<http://purl.uniprot.org/uniprot/Q92820>
+      rdfs:label    "Q92820" .
+
+<http://purl.uniprot.org/uniprot/D6RG55>
+      rdfs:label    "D6RG55" .
+
+<http://purl.uniprot.org/uniprot/C9J710>
+      rdfs:label    "C9J710" .
+
+<http://purl.uniprot.org/uniprot/P04202>
+      rdfs:label    "P04202" .
+
+<http://purl.uniprot.org/uniprot/E9PZD0>
+      rdfs:label    "E9PZD0" .
+
+<http://purl.uniprot.org/uniprot/E5RGM6>
+      rdfs:label    "E5RGM6" .
+
+<http://purl.uniprot.org/uniprot/Q8BJQ2>
+      rdfs:label    "Q8BJQ2" .
+
+<http://purl.uniprot.org/uniprot/Q71KU9>
+      rdfs:label    "Q71KU9" .
+
+<http://purl.uniprot.org/uniprot/D3YX05>
+      rdfs:label    "D3YX05" .
+
+<http://purl.uniprot.org/uniprot/E9KXT8>
+      rdfs:label    "E9KXT8" .
+
+<http://purl.uniprot.org/uniprot/P15927>
+      rdfs:label    "P15927" .
+
+<http://purl.uniprot.org/uniprot/A2ALN9>
+      rdfs:label    "A2ALN9" .
+
+<http://purl.uniprot.org/uniprot/Q9H8V3>
+      rdfs:label    "Q9H8V3" .
+
+<http://purl.uniprot.org/uniprot/Q9H616>
+      rdfs:label    "Q9H616" .
+
+<http://purl.uniprot.org/uniprot/E7EWS7>
+      rdfs:label    "E7EWS7" .
+
+<http://purl.uniprot.org/uniprot/H0Y8T9>
+      rdfs:label    "H0Y8T9" .
+
+<http://purl.uniprot.org/uniprot/Q8CAR0>
+      rdfs:label    "Q8CAR0" .
+
+<http://purl.uniprot.org/uniprot/Q6LC83>
+      rdfs:label    "Q6LC83" .
+
+<http://purl.uniprot.org/uniprot/A2AES3>
+      rdfs:label    "A2AES3" .
+
+<http://purl.uniprot.org/uniprot/K7ENM2>
+      rdfs:label    "K7ENM2" .
+
+<http://purl.uniprot.org/uniprot/Q8N6R0>
+      rdfs:label    "Q8N6R0" .
+
+<http://purl.uniprot.org/uniprot/Q9EQQ2>
+      rdfs:label    "Q9EQQ2" .
+
+<http://purl.uniprot.org/uniprot/B4DG01>
+      rdfs:label    "B4DG01" .
+
+<http://purl.uniprot.org/uniprot/K7EKL1>
+      rdfs:label    "K7EKL1" .
+
+<http://purl.uniprot.org/uniprot/Q7LDK6>
+      rdfs:label    "Q7LDK6" .
+
+<http://purl.uniprot.org/uniprot/H7C443>
+      rdfs:label    "H7C443" .
+
+<http://purl.uniprot.org/uniprot/P29083>
+      rdfs:label    "P29083" .
+
+<http://rdf.ebi.ac.uk/demo/sample/32D29FCDB1CD34815FA100B1B21EB3F4>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #32D29FCDB1CD34815FA100B1B21EB3F4" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/I3L1Z7> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/D6RBW0> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H616> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/O15091> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/H0YLG1> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q96AT9> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/B7Z1C6> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/E9PFC7> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/O96020>
+      rdfs:label    "O96020" .
+
+<http://purl.uniprot.org/uniprot/Q3UDL4>
+      rdfs:label    "Q3UDL4" .
+
+<http://purl.uniprot.org/uniprot/E9Q4I1>
+      rdfs:label    "E9Q4I1" .
+
+<http://purl.uniprot.org/uniprot/B2RB70>
+      rdfs:label    "B2RB70" .
+
+<http://purl.uniprot.org/uniprot/Q8K1K2>
+      rdfs:label    "Q8K1K2" .
+
+<http://purl.uniprot.org/uniprot/D6RFY1>
+      rdfs:label    "D6RFY1" .
+
+<http://purl.uniprot.org/uniprot/B4DFM7>
+      rdfs:label    "B4DFM7" .
+
+<http://purl.uniprot.org/uniprot/D6REK8>
+      rdfs:label    "D6REK8" .
+
+<http://purl.uniprot.org/uniprot/Q9UNH5>
+      rdfs:label    "Q9UNH5" .
+
+<http://purl.uniprot.org/uniprot/E9Q3X0>
+      rdfs:label    "E9Q3X0" .
+
+<http://purl.uniprot.org/uniprot/Q91V81>
+      rdfs:label    "Q91V81" .
+
+<http://purl.uniprot.org/uniprot/B7Z7P0>
+      rdfs:label    "B7Z7P0" .
+
+<http://purl.uniprot.org/uniprot/F6ZGI7>
+      rdfs:label    "F6ZGI7" .
+
+<http://purl.uniprot.org/uniprot/H3BKJ8>
+      rdfs:label    "H3BKJ8" .
+
+<http://purl.uniprot.org/uniprot/O89098>
+      rdfs:label    "O89098" .
+
+<http://purl.uniprot.org/uniprot/F6Q6H0>
+      rdfs:label    "F6Q6H0" .
+
+<http://purl.uniprot.org/uniprot/C9J3M3>
+      rdfs:label    "C9J3M3" .
+
+<http://purl.uniprot.org/uniprot/Q14579>
+      rdfs:label    "Q14579" .
+
+<http://purl.uniprot.org/uniprot/Q6P6I8>
+      rdfs:label    "Q6P6I8" .
+
+<http://purl.uniprot.org/uniprot/H3BTN5>
+      rdfs:label    "H3BTN5" .
+
+<http://purl.uniprot.org/uniprot/H7C551>
+      rdfs:label    "H7C551" .
+
+<http://purl.uniprot.org/uniprot/G0ZMM8>
+      rdfs:label    "G0ZMM8" .
+
+<http://purl.uniprot.org/uniprot/Q8K1K3>
+      rdfs:label    "Q8K1K3" .
+
+<http://purl.uniprot.org/uniprot/D6RCC4>
+      rdfs:label    "D6RCC4" .
+
+<http://rdf.ebi.ac.uk/demo/sample/3F9BA47BB5AC915A23BDBE062697F9CD>
+      rdf:type      obo:OBI_0000747 ;
+      rdfs:label    "Human Sample from Experimental Data Set 1, ID #3F9BA47BB5AC915A23BDBE062697F9CD" ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/F8VXF5> ;
+      atlasterms:dbXref  <http://purl.uniprot.org/uniprot/Q9H3Y8> ;
+      atlasterms:hasFactorValue
+                    <http://www.ebi.ac.uk/efo/EFO_0000764> .
+
+<http://purl.uniprot.org/uniprot/H3BUQ2>
+      rdfs:label    "H3BUQ2" .
+
+<http://purl.uniprot.org/uniprot/Q9Z1Q5>
+      rdfs:label    "Q9Z1Q5" .
+
+<http://purl.uniprot.org/uniprot/P14211>
+      rdfs:label    "P14211" .
+
+<http://purl.uniprot.org/uniprot/B4DDT6>
+      rdfs:label    "B4DDT6" .
+
+<http://purl.uniprot.org/uniprot/J3QQV5>
+      rdfs:label    "J3QQV5" .

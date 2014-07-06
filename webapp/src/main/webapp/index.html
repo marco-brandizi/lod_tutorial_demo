@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Biojs.AutocompleteOLS</title>
+<script language="JavaScript" type="text/javascript" src="js/Biojs.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/Biojs.AutocompleteOLS.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/jquery.caret.range-1.0.js"></script>
+<script language="JavaScript" type="text/javascript" src="js/jquery-autocomplete-ols.js"></script>
+<link rel="stylesheet" href="http://www.ebi.ac.uk/arrayexpress/assets/stylesheets/ae-common-1.0.131017.css" type="text/css">
+<script language="JavaScript" type="text/javascript">window.onload = function() {
+ var instance = new Biojs.AutocompleteOLS({
+         target: "disease",
+         ontology: "EFO"
+ });
+
+};
+</script>
+</head>
+<body>
+<form action = "search_proteins.jsp" method = "get" >
+<div id="disease"></div><input type = "submit" value = "Search" />
+</form>
+</body>
+</html>

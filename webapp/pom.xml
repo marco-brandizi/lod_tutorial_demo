@@ -1,0 +1,84 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>uk.ac.ebi.rdf</groupId>
+  <artifactId>lod-demo-web</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <description>A simple demo webapp using LOD, used for the talk at /dev/summer/2014 (http://devcycles.net/summer)</description>
+
+	<packaging>war</packaging>
+  
+	<dependencies>
+
+		<dependency>
+			<groupId>uk.ac.ebi.rdf</groupId>
+			<artifactId>xml2rdf_demo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>		
+		</dependency>
+	
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.3.1</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>uk.ac.ebi</groupId>
+			<artifactId>jutils</artifactId>
+			<version>4.1</version>
+		</dependency>
+	
+	</dependencies>
+	  
+  <build>
+  	<plugins>
+  	
+			<plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.1</version>
+        <configuration>
+          <source>1.7</source>
+          <target>1.7</target>
+        </configuration>
+      </plugin>  	
+  	
+	    <!-- This allows to test with mvn jetty:run -->
+	    <plugin>
+		    <groupId>org.eclipse.jetty</groupId>
+		    <artifactId>jetty-maven-plugin</artifactId>
+		    
+		    <configuration>
+	        <systemProperties>
+	          <!-- Triggers test data creation in uk.ac.ebi.fg.myequivalents.webservices.server.test.WebTestDataInitializer -->
+	          <systemProperty>
+	            <name>foo</name>
+	            <value>foo-value</value>
+	          </systemProperty>
+		     	</systemProperties>
+		    	
+		      <scanIntervalSeconds>10</scanIntervalSeconds>
+		      <useTestScope>true</useTestScope>
+		        
+	        <httpConnector>
+	        	<port>8080</port>
+	        </httpConnector>
+	        
+	        <stopPort>10974</stopPort>
+	    		<stopKey>KILL</stopKey>
+		    </configuration>
+	    </plugin>
+    
+  	</plugins>
+  </build>
+  
+   <repositories>
+
+		<repository>
+			<id>ebi-repo</id>
+			<name>EBI repo</name>
+			<url>http://www.ebi.ac.uk/~maven/m2repo</url>
+		</repository>
+		
+  </repositories>
+  
+</project>

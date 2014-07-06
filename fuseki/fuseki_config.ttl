@@ -1,0 +1,70 @@
+# Licensed under the terms of http://www.apache.org/licenses/LICENSE-2.0
+
+## Basic Fuseki configuation file.
+## 
+## See also config-tdb.ttl for TDB specific examples.
+## See also config-examples.ttl for commented examples.
+
+@prefix :        <#> .
+@prefix fuseki:  <http://jena.apache.org/fuseki#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix tdb:     <http://jena.hpl.hp.com/2008/tdb#> .
+@prefix ja:      <http://jena.hpl.hp.com/2005/11/Assembler#> .
+
+[] rdf:type fuseki:Server ;
+   # Timeout - server-wide default: milliseconds.
+   # Format 1: "1000" -- 1 second timeout
+   # Format 2: "10000,60000" -- 10s timeout to first result, then 60s timeout for the rest of query.
+   # See java doc for ARQ.queryTimeout
+   # ja:context [ ja:cxtName "arq:queryTimeout" ;  ja:cxtValue "10000" ] ;
+
+   # ja:loadClass "your.code.Class" ;
+
+   fuseki:services (
+     <#service1>
+   ) .
+
+
+## ---------------------------------------------------------------
+## Read-only access to our experimental data.
+
+<#service1> rdf:type fuseki:Service ;
+    fuseki:name                     "demo" ;
+    fuseki:serviceQuery             "query" ;
+    fuseki:serviceReadGraphStore    "get" ;
+    fuseki:dataset                   <#demo_inf> ;
+    .
+    
+# Doesn't perform any inference, faster
+#
+<#demo_noinf>    rdf:type ja:RDFDataset ;
+    rdfs:label "Biomedical Linked Open Data, Demo" ;
+    ja:defaultGraph 
+      [ rdfs:label ".ttl" ;
+        a ja:MemoryModel ;
+        ja:content [ja:externalContent <file:../data1.ttl> ] ;
+        ja:content [ja:externalContent <file:../data2.ttl> ] ;
+      ] ;
+    .
+
+# Perform inference, which ranges from basic (RDFSExptRuleReasoner), to rather advanced (OWLFBRuleReasoner).
+# The more powerful is the reasoner, the slower the performance. See https://jena.apache.org/documentation/inference/
+#
+<#demo_inf>    rdf:type ja:RDFDataset ;
+    rdfs:label "SOD 2014 Tutorial, Drug Dataset" ;
+    ja:defaultGraph 
+      [ rdfs:label "Inference Model" ;
+        a ja:InfModel ;
+        ja:baseModel [ 
+          a ja:MemoryModel;
+          ja:content [ja:externalContent <file:../data1.ttl> ] ;
+          ja:content [ja:externalContent <file:../data2.ttl> ] ;
+          ja:content [ja:externalContent <http://www.ebi.ac.uk/efo/efo_inferred.owl> ]; # The Experimental Factor Ontology (EFO)
+          ja:content [ja:externalContent <http://purl.obolibrary.org/obo/obi.owl> ]; # The Ontology for Biomedical investigations (OBI)
+        ];
+        ja:reasoner [ ja:reasonerURL <http://jena.hpl.hp.com/2003/RDFSExptRuleReasoner> ]
+      ] ;
+    .
+

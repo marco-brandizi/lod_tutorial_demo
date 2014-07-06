@@ -1,0 +1,20 @@
+PREFIX atlasterms: <http://rdf.ebi.ac.uk/resource/atlas/>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+CONSTRUCT {
+  ?sample rdf:type obo:OBI_0000747. # Material Sample
+  ?sample atlasterms:dbXref ?uniprotUri.
+  ?sample atlasterms:hasFactorValue ?diseaseTerm.
+  ?sample rdfs:label ?sampleLabel.
+
+  ?uniprotUri rdfs:label ?UniProt.
+}
+WHERE {
+  BIND ( URI ( CONCAT ( 'http://purl.uniprot.org/uniprot/', ?UniProt ) ) AS ?uniprotUri )
+  BIND ( URI ( CONCAT ( 'http://www.ebi.ac.uk/efo/', ?EFO ) ) AS ?diseaseTerm )
+  BIND ( URI ( CONCAT ( 'http://rdf.ebi.ac.uk/demo/sample/', ?Sample ) ) AS ?sample )
+  BIND ( CONCAT ( 'Human Sample from Experimental Data Set 1, ID #', ?Sample ) AS ?sampleLabel )
+}
+OFFSET 1
