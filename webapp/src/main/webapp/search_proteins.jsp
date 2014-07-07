@@ -17,11 +17,6 @@
     <tr>
     	<td><a href = "<%= result.proteinUri %>"><%= result.uniProtId %></a></td>
     	<td><a href = "<%= result.conditionTermUri %>"><%= result.conditionLabel %></a></td>
-    	<td><% if ( result.proteinImgUrl != null ) { %>
-    		<a href = "<%= result.proteinImgUrl %>"><img src = "<%= result.proteinImgUrl %>" border = "0" /></a>
-    	<% } else { %>
-    	  &nbsp;
-    	<% } %></td>
     </tr>
 
 	<% } %>   

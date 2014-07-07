@@ -29,7 +29,6 @@ public class ProteinSearch
 		public String 
 		  proteinUri, 
 		  uniProtId,
-		  proteinImgUrl,
 		  conditionTermUri,
 		  conditionLabel;
 	}
@@ -61,13 +60,6 @@ public class ProteinSearch
 			exportedResult.uniProtId = tuple.getLiteral ( "uniProtId" ).getString ();
 			exportedResult.conditionTermUri = tuple.getResource ( "condition" ).getURI ();
 			exportedResult.conditionLabel = tuple.getLiteral ( "condLabel" ).getString ();
-			
-			// Do you have an image URL?
-			params = new QuerySolutionMap ();
-			params.add ( "uniProtId", m.createLiteral ( exportedResult.uniProtId, "en" ) );
-			ResultSet qresult1 = SemWebUtils.execQuery ( "http://dbpedia.org/sparql", "/sparql/proteins_image.sparql", params );
-			if ( qresult1.hasNext () )
-				exportedResult.proteinImgUrl = qresult1.nextSolution ().getResource ( "imgUrl" ).getURI ();
 			
 			result.add ( exportedResult );
 		}

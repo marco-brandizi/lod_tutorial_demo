@@ -15,5 +15,4 @@ WHERE
     rdfs:label ?uniProtId.
 }
 ORDER BY rand()
-#LIMIT 100
-
+LIMIT 100
