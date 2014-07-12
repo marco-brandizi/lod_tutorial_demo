@@ -1,7 +1,7 @@
-PREFIX atlasterms: <http://rdf.ebi.ac.uk/resource/atlas/>
 PREFIX obo: <http://purl.obolibrary.org/obo/>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX atlasterms: <http://rdf.ebi.ac.uk/terms/atlas/>
 
 CONSTRUCT {
   ?sample rdf:type obo:OBI_0000747. # Material Sample

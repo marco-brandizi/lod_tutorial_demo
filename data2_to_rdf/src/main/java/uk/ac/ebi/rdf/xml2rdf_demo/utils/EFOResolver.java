@@ -16,7 +16,7 @@ import com.hp.hpl.jena.util.iterator.ExtendedIterator;
 import com.hp.hpl.jena.vocabulary.RDFS;
 
 /**
- * TODO: Comment me!
+ * Maps a label string into the corresponding EFO ontology class. 
  *
  * <dl><dt>date</dt><dd>6 Jul 2014</dd></dl>
  * @author Marco Brandizi
@@ -40,24 +40,38 @@ public class EFOResolver
 		OntModel efoModel = ModelFactory.createOntologyModel ( OntModelSpec.RDFS_MEM_RDFS_INF );
 		efoModel.read ( "http://www.ebi.ac.uk/efo/efo_inferred.owl" );
 		
-		// Viral disease, our experiments have annotations about this branch only
-		OntClass rootTerm = efoModel.getOntClass ( "http://www.ebi.ac.uk/efo/EFO_0000763" );
+		// This is the root class in EFO, mapped into a Jena object
+		OntClass rootTerm = efoModel.getOntClass ( "http://www.ebi.ac.uk/efo/EFO_0000001" );
 		
 		efoTerms = new HashMap<String, String> ();
-		efoTerms.put ( rootTerm.getPropertyValue ( RDFS.label ).asLiteral ().getString (), rootTerm.getURI () );
+		
+		// Jena has nodes of different types (resources, literals, properties, OWL classes etc), with RDFNode at the top.
+		RDFNode termLabelNode = rootTerm.getPropertyValue ( RDFS.label );
+		Literal termLabelLiteral = termLabelNode.asLiteral ();
+		
+		// And nodes have bridge with plain old primitive types
+		String termLabel = termLabelLiteral.getString ();
+		
+		// Let's cache the current result 
+		efoTerms.put ( termLabel, rootTerm.getURI () );
+		
+		// Le'ts do the same for all the descendant classes
+		//
 		for ( ExtendedIterator<OntClass> subTerms = rootTerm.listSubClasses ( false ); subTerms.hasNext (); )
 		{
 			OntClass subTerm = subTerms.next ();
 			
-			RDFNode rdfsLabelN = subTerm.getPropertyValue ( RDFS.label );
-			if ( rdfsLabelN == null ) continue;
+			termLabelNode = subTerm.getPropertyValue ( RDFS.label );
+			if ( termLabelNode == null ) continue;
 			
-			Literal rdfsLabelL = rdfsLabelN.asLiteral ();
-			String termLabel = rdfsLabelL.getString ();
+			Literal rdfsLabelL = termLabelNode.asLiteral ();
+			termLabel = rdfsLabelL.getString ();
 			if ( termLabel == null ) continue;
 			
 			efoTerms.put ( termLabel, subTerm.getURI () );
 		}
+		
+		// efoTerms is now available for queries
 	}
 	
 	public String getEFOTerm ( String label )

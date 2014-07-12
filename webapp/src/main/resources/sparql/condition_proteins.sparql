@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX atlasterms: <http://rdf.ebi.ac.uk/terms/atlas/>
+
+SELECT DISTINCT ?protein ?uniProtId
+WHERE 
+{
+  ?specimen 
+    atlasterms:dbXref ?protein;
+    atlasterms:hasFactorValue ?condition.
+    
+  ?condition rdfs:subClassOf ?searchCondition.
+    
+  ?protein
+    rdfs:label ?uniProtId.
+}
+LIMIT 5

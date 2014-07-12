@@ -59,10 +59,16 @@
         a ja:InfModel ;
         ja:baseModel [ 
           a ja:MemoryModel;
-          ja:content [ja:externalContent <file:../data1.ttl> ] ;
+          
+          # Our experimental data
+					ja:content [ja:externalContent <file:../data1.ttl> ] ;
           ja:content [ja:externalContent <file:../data2.ttl> ] ;
-          ja:content [ja:externalContent <http://www.ebi.ac.uk/efo/efo_inferred.owl> ]; # The Experimental Factor Ontology (EFO)
-          ja:content [ja:externalContent <http://purl.obolibrary.org/obo/obi.owl> ]; # The Ontology for Biomedical investigations (OBI)
+          
+					# The Experimental Factor Ontology (EFO)
+          ja:content [ja:externalContent <http://www.ebi.ac.uk/efo/efo_inferred.owl> ]; 
+
+					# The Ontology for Biomedical investigations (OBI)
+          ja:content [ja:externalContent <http://purl.obolibrary.org/obo/obi.owl> ]; 
         ];
         ja:reasoner [ ja:reasonerURL <http://jena.hpl.hp.com/2003/RDFSExptRuleReasoner> ]
       ] ;
